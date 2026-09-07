@@ -1,0 +1,14 @@
+# Description
+Professional Speaking for the Workplace 
+This course equips students with the language and communication skills and strategies to speak and present professionally in internal and external business settings. It increases student awareness of how speaking and presenting creates change and convinces one to take action. As students explore and analyze spoken genres using language and communication theories, they learn how to shape and adapt their language skills, strategies and communication practices to influence various internal and external audiences including customers, co-workers and supervisors. Students will also develop ways to express themselves in multimodal settings. The course develops in students particularly with soft skills to handle sensitive business situations and incidents including a crisis, and how to communicate interculturally in diverse settings. Students will develop a repertoire of language and communication skills and strategies to meet various workplace needs. For all SBM programs, BIBU, MAEC, T&M-DDP, SGFN & QSA students.
+#cre: 3
+
+# Pre:
+Grade A+ in LANG 1403; OR LANG 1404
+ [[LANG1403;]] or [[LANG1404]] 
+# Co:
+N/A
+
+# Exc:
+LABU 2040, LABU 2060
+

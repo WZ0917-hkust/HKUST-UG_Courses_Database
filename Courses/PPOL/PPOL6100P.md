@@ -1,0 +1,14 @@
+# Description
+Urban Studies, Disaster Governance and Resilience 
+The course aims to equip the students with solid scientific research ability and a profound understanding of the political institutions, processes, and strategies for public policy-making in the field of urban studies and disaster governance and resilience. This course is designed to help students develop the analytical skills required to address policy issues, articulate relevant criteria for policy choice, and evaluate policy impacts. Throughout the course, students will think about, discuss, and understand the crucial components of public policy and major approaches to public policy in urban studies and disaster governance and resilience. The course will include topics related to public policy theories and practices in cities, Asiaâs urban transition, competing models or frameworks for Asiaâs urban future, and global climate change and disaster governance.
+#cre: 3
+
+# Pre:
+N/A
+
+# Co:
+N/A
+
+# Exc:
+N/A
+
