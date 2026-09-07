@@ -8,15 +8,15 @@ BuildDB/.venv/bin/python -m pip install -r BuildDB/requirements.txt
 BuildDB/.venv/bin/python -m BuildDB --term 2610
 ```
 
-在项目根目录执行。默认输出 `BuildDB/CoursesDB_yyyymmdd.json`（香港日期）。指定文件：
+在项目根目录执行。默认输出 `BuildDB/CoursesDB_学期_yyyymmdd_hhmm.json`（例如 `CoursesDB_2610_20260907_1609.json`；学期为实际选定的学期，香港时间，24 小时制，时间取程序启动时刻）。指定文件：
 
 ```bash
-BuildDB/.venv/bin/python -m BuildDB --term 2620 --output BuildDB/2620/CoursesDB_20260907.json
+BuildDB/.venv/bin/python -m BuildDB --term 2620 --output BuildDB/2620/CoursesDB_2620_20260907_1609.json
 ```
 
 省略 `--term` 时，按香港日期估算当前学期，探测当前、后一个、前三个学期，打印结果，并优先选当前学期；不可访问则按上述顺序选择第一个可访问学期。9–12 月对应秋季、1 月冬季、2–5 月春季、6–8 月夏季；开学边界以显式 `--term` 为准。一次数据库只保存一个学期，避免不同学期同课号数据混合。
 
-先打印 `.depts a.ug` 发现的完整学科列表，再依次请求每个学科（默认间隔 0.5 秒，有超时和重试）。每科后原子写入 `.partial.json`，最后建立反向关系并写正式文件。同日同名正式文件会在全部成功后替换。任何学科失败均返回退出码 1，保留部分文件，正式文件不变；重新运行可重试整个学期。
+先打印 `.depts a.ug` 发现的完整学科列表，再依次请求每个学科（默认间隔 0.5 秒，有超时和重试）。每科后原子写入 `.partial.json`，最后建立反向关系并写正式文件。同一分钟内同名正式文件会在全部成功后替换。任何学科失败均返回退出码 1，保留部分文件，正式文件不变；重新运行可重试整个学期。
 
 JSON 按“学科 → 无空格课号 → 课程数据”组织，例如 `db["ELEC"]["ELEC3400"]`。正式文件和部分文件均使用此结构；程序内部仍以课号索引，以便跨学科建立反向关系。每门课程包含：
 
@@ -35,3 +35,5 @@ BuildDB/.venv/bin/python -m unittest discover -s BuildDB/tests -v
 ```
 
 `tests/fixtures/elec3400.html` 是用户提供的样例。`run_2610.log` 为端到端爬取记录。
+
+原有 Obsidian 生成项目已移至 `../BuildObsidian/`，原脚本内容保持不变；运行旧脚本时先进入该目录，以保持相对路径正确。

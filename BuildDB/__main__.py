@@ -14,7 +14,7 @@ from .storage import save
 def main():
     parser = argparse.ArgumentParser(description='爬取 HKUST 本科学科课程数据库（每次一个学期）')
     parser.add_argument('--term', help='例如 2610；省略则探测当前、后一个、前三个学期')
-    parser.add_argument('--output', type=Path, help='默认 BuildDB/CoursesDB_yyyymmdd.json')
+    parser.add_argument('--output', type=Path, help='默认 BuildDB/CoursesDB_学期_yyyymmdd_hhmm.json')
     parser.add_argument('--delay', type=float, default=0.5, help='请求间隔秒数')
     args = parser.parse_args()
     if args.term and not re.fullmatch(r'\d{2}[1-4]0', args.term):
@@ -22,8 +22,6 @@ def main():
     if args.delay < 0:
         parser.error('--delay 不能小于 0')
     now = datetime.now(ZoneInfo('Asia/Hong_Kong'))
-    output = args.output or Path(__file__).resolve().parent / f'CoursesDB_{now:%Y%m%d}.json'
-    partial = output.with_suffix('.partial.json')
     client = Client(args.delay)
     available = {}
     for term in [args.term] if args.term else candidate_terms(now.date()):
@@ -36,6 +34,8 @@ def main():
         print('没有可访问学期。', file=sys.stderr)
         return 1
     term = next(iter(available))
+    output = args.output or Path(__file__).resolve().parent / f'CoursesDB_{term}_{now:%Y%m%d_%H%M}.json'
+    partial = output.with_suffix('.partial.json')
     departments = available[term]
     print(f'[爬取学期] {term}\n[学科列表] ' + ', '.join(departments), flush=True)
     database, failures = {}, []

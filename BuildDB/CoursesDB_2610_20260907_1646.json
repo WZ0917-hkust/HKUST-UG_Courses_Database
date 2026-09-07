@@ -57,7 +57,7 @@
               "KIM, Jaesik"
             ],
             "Quota": 77,
-            "Waitlist": 40
+            "Waitlist": 39
           },
           "L07": {
             "Avail": 3,
@@ -189,7 +189,7 @@
         },
         "Term": "2610",
         "Title": "Principles of Accounting I",
-        "Waitlist": 222
+        "Waitlist": 221
       }
     },
     "ACCT3010": {
@@ -363,7 +363,7 @@
               "TAN, Jing"
             ],
             "Quota": 66,
-            "Waitlist": 20
+            "Waitlist": 19
           },
           "L2": {
             "Avail": 0,
@@ -408,7 +408,7 @@
         },
         "Term": "2610",
         "Title": "Business Law",
-        "Waitlist": 38
+        "Waitlist": 37
       }
     },
     "ACCT3880": {
@@ -1759,7 +1759,7 @@
             "Avail": 0,
             "Enroll": 125,
             "Quota": 125,
-            "Waitlist": 3
+            "Waitlist": 4
           },
           "LA05": {
             "Avail": 0,
@@ -1774,10 +1774,10 @@
             "Waitlist": 2
           },
           "LA07": {
-            "Avail": 1,
-            "Enroll": 124,
+            "Avail": 0,
+            "Enroll": 125,
             "Quota": 125,
-            "Waitlist": 4
+            "Waitlist": 3
           },
           "LA08": {
             "Avail": 0,
@@ -1819,7 +1819,7 @@
             "Avail": 0,
             "Enroll": 125,
             "Quota": 125,
-            "Waitlist": 3
+            "Waitlist": 2
           },
           "LA15": {
             "Avail": 0,
@@ -2320,7 +2320,7 @@
               "YANG, Harry"
             ],
             "Quota": 80,
-            "Waitlist": 29
+            "Waitlist": 28
           }
         },
         "Others": {},
@@ -2356,7 +2356,7 @@
         },
         "Term": "2610",
         "Title": "AI-Driven Animation and Video Generation",
-        "Waitlist": 29
+        "Waitlist": 28
       }
     },
     "AMCC5210": {
@@ -2476,8 +2476,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 45,
+            "Avail": 2,
+            "Enroll": 44,
             "Instructor": [
               "CHENG, Vennes"
             ],
@@ -2505,7 +2505,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Taking a survey approach and employing a semi-seminar format, this course examines a range of theories on appreciating and critiquing art and art-making, from Plato to contemporary post-humanist thinkers. The course aims to trace intellectual connections between historical understandings of humanity and science, and today's technological conditions. Students will be guided to think critically and to develop the capacity to apply these theories to future projects related to machine creativity in the age of AI in the 21st century.",
-        "Enroll": 89,
+        "Enroll": 88,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -3070,13 +3070,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 174,
+            "Avail": 0,
+            "Enroll": 175,
             "Instructor": [
               "LAI, Yong"
             ],
             "Quota": 175,
-            "Waitlist": 26
+            "Waitlist": 25
           }
         },
         "Others": {},
@@ -3090,7 +3090,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course offers an introductory overview of synthetic biology and its innovations for human health, encompassing both technical and business aspects, tailored for undergraduate students. It is suitable for those intrigued by the cutting-edge technologies driving the emerging biopharmaceutical industry and interested in the transformation of synthetic biology. This course begins by exploring the timeline of biotechnology's emergence and development, delving into the discovery of groundbreaking pharmaceuticals in human history and the evolution of synthetic biology. It provides students with a framework for critical thinking while exploring the current landscape of synthetic biology. The course covers key milestones, explains foundational scientific concepts, and highlights the transformative impact of synthetic biology on human health. Through case studies, students gain insights into the opportunities and limitations in current and future technological advancements. Additionally, the course features guest lectures by experts from the industry and investment sector, offering valuable perspectives on course-related topics.",
-        "Enroll": 174,
+        "Enroll": 175,
         "Exclusion": "CENG 1600",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -3116,7 +3116,7 @@
         },
         "Term": "2610",
         "Title": "Engineering Life: Synthetic Biology and Innovations for Human Health",
-        "Waitlist": 26
+        "Waitlist": 25
       }
     },
     "BIEN2610": {
@@ -5269,7 +5269,7 @@
               "GAO, Furong"
             ],
             "Quota": 30,
-            "Waitlist": 7
+            "Waitlist": 6
           }
         },
         "Others": {},
@@ -5305,7 +5305,7 @@
         },
         "Term": "2610",
         "Title": "Advanced Control and Data Science",
-        "Waitlist": 7
+        "Waitlist": 6
       }
     },
     "CENG5610": {
@@ -5474,8 +5474,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 13,
-            "Enroll": 107,
+            "Avail": 12,
+            "Enroll": 108,
             "Quota": 120,
             "Waitlist": 0
           }
@@ -5669,8 +5669,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 33,
-            "Enroll": 87,
+            "Avail": 32,
+            "Enroll": 88,
             "Quota": 120,
             "Waitlist": 0
           }
@@ -5867,8 +5867,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 40,
-            "Enroll": 86,
+            "Avail": 39,
+            "Enroll": 87,
             "Instructor": [
               "JIA, Guocheng",
               "TSANG, Ming Wai Emily"
@@ -5907,7 +5907,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course targets at students who have acquired prior knowledge in fundamental Chemistry in high school. Key topics include atomic structure and periodicity, molecules, bonding theories, and properties of gases, liquids and solids. Other topics such as transition metals and coordination compounds, and organic molecules will be briefly reviewed.",
-        "Enroll": 285,
+        "Enroll": 286,
         "Exclusion": "CHEM 1010 (prior to 2022-23)",
         "Exclusion-of": [],
         "Pre-Requisite-of": [
@@ -6552,8 +6552,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 6,
-            "Enroll": 34,
+            "Avail": 4,
+            "Enroll": 36,
             "Instructor": [
               "TONG, Rongbiao"
             ],
@@ -6572,7 +6572,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Use of modern ID- and 2D-NMR, IR, and Mass Spectrometric techniques for structure determination of organic molecules; theory of each technique with emphasis on development of problem-solving techniques.",
-        "Enroll": 34,
+        "Enroll": 36,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -6607,8 +6607,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 8,
-            "Enroll": 32,
+            "Avail": 7,
+            "Enroll": 33,
             "Instructor": [
               "GUO, Zhihong"
             ],
@@ -6627,7 +6627,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course will introduce the fundamental chemical principles underlying the structure, properties, and functions of biologically important molecules. Using the chemical concepts of bonding, structure, and structure-reactivity relationships developed in organic chemistry, this course will cover topics on the stereochemistry, structural diversity, physicochemical properties, and reactivity of amino acids, peptides, proteins, nucleic acids, carbohydrates, and lipids to understand the molecular basis of their biological functions. Another major topic of this course is the preparation of these important biological molecules for understanding of their functions and exploitation of their biotechnological and medicinal values, using available organic chemistry methods.",
-        "Enroll": 32,
+        "Enroll": 33,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -7793,16 +7793,16 @@
       "Data": {
         "Labs": {
           "LA1": {
-            "Avail": 2,
-            "Enroll": 33,
+            "Avail": 3,
+            "Enroll": 32,
             "Quota": 35,
             "Waitlist": 2
           }
         },
         "Lecture": {
           "L1": {
-            "Avail": 2,
-            "Enroll": 33,
+            "Avail": 3,
+            "Enroll": 32,
             "Instructor": [
               "SU, Haibin"
             ],
@@ -7821,7 +7821,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Fundamentals and applications of various computational chemistry methods, including molecular orbital calculations, molecular mechanics and molecular dynamics. Computational laboratory practice will be emphasized.",
-        "Enroll": 33,
+        "Enroll": 32,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -8008,8 +8008,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 10,
-            "Enroll": 140,
+            "Avail": 9,
+            "Enroll": 141,
             "Quota": 150,
             "Waitlist": 0
           }
@@ -8554,8 +8554,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 22,
-            "Enroll": 38,
+            "Avail": 23,
+            "Enroll": 37,
             "Instructor": [
               "LAU, Kai Hon Alexis"
             ],
@@ -8574,7 +8574,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Big History as an emerging interdisciplinary framework, provides a long-term perspective to see the world through reconstructing the history from the big bang all the way to the present. In such a longer time scale, overview of stars, planetary and species evolution, as well as concepts in climate change and how it is related to sustainability of the planet’s environment for its current inhabitants, including humanity, will be discussed. The physical science basis, impacts, risk, mitigation and adaptation measures of climate change will also be investigated (including technical and social solutions). For local and regional vulnerabilities, such as extreme weather events, sea levels rise, storm surge and coastal flooding, will be covered. The significance of collective learning under the big history framework, both as a driver for our exponentially growing impacts, as well as for better solutions, will be highlighted.",
-        "Enroll": 38,
+        "Enroll": 37,
         "Exclusion": "CIVL 1170 (prior to 2022-23), ENVR 1170",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -11583,8 +11583,8 @@
             "Waitlist": 22
           },
           "LA6": {
-            "Avail": 22,
-            "Enroll": 98,
+            "Avail": 23,
+            "Enroll": 97,
             "Quota": 120,
             "Waitlist": 18
           },
@@ -11636,11 +11636,11 @@
               "LAM, Ngok"
             ],
             "Quota": 180,
-            "Waitlist": 24
+            "Waitlist": 23
           },
           "L5": {
-            "Avail": 29,
-            "Enroll": 151,
+            "Avail": 30,
+            "Enroll": 150,
             "Instructor": [
               "CHEUNG, Shing-Chi"
             ],
@@ -11661,7 +11661,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This introductory course is designed to provide a comprehensive overview of the Python programming language and its core concepts, such as data types, variables, operators, and control structures, as well as the collection data types, including lists, tuples, sets, and dictionaries. Additionally, it covers the language's functions and the fundamentals of object-oriented programming. The course also explores a range of useful Python modules and packages, such as NumPy, Pandas, Matplotlib, through meaningful examples and applications, as well as hands-on experimentation using a well-known integrated development environment and AI tools. Furthermore, this course will discuss good programming practices and debugging skills.",
-        "Enroll": 911,
+        "Enroll": 910,
         "Exclusion": "COMP 1021, COMP 1022P (prior to 2025-26), COMP 1029P, COMP 2011, COMP 2012H, COMP 2211, CIVL 1121, IEDA 1180, ISOM 3400",
         "Exclusion-of": [
           "COMP1021",
@@ -11725,7 +11725,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Python Programming",
-        "Waitlist": 161
+        "Waitlist": 160
       }
     },
     "COMP1028": {
@@ -11862,8 +11862,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 36,
-            "Enroll": 14,
+            "Avail": 37,
+            "Enroll": 13,
             "Instructor": [
               "LAM, Gibson"
             ],
@@ -11882,7 +11882,7 @@
         "Consent": false,
         "Credits": 1,
         "Description": "This course introduces the Java programming language. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to the Java language. The course covers basic programming topics such as variables, control statements, loops, functions, and object-oriented programming concepts. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
-        "Enroll": 14,
+        "Enroll": 13,
         "Exclusion": "COMP 1022P (prior to 2025-26), COMP 3021, ISOM 3320",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -12004,8 +12004,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 14,
-            "Enroll": 36,
+            "Avail": 15,
+            "Enroll": 35,
             "Instructor": [
               "LAM, Gibson"
             ],
@@ -12024,7 +12024,7 @@
         "Consent": false,
         "Credits": 1,
         "Description": "This course introduces the VBA programming language, in the context of Microsoft Excel. It is intended for students who already have some experience in computer programming but wish to learn how to apply those programming skills to VBA, within Excel. The course covers basic programming topics, such as variables, functions and loops, to more advanced topics. Appropriate features of the Excel program are also covered. Students explore these by self-learning of course materials together with guided programming exercises. Students without the prerequisites but possess relevant programming knowledge may seek instructor's approval for enrolling in the course. Graded P or F.",
-        "Enroll": 36,
+        "Enroll": 35,
         "Exclusion": "ISOM 3230",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -12835,8 +12835,8 @@
       "Data": {
         "Labs": {
           "LA1": {
-            "Avail": 40,
-            "Enroll": 110,
+            "Avail": 41,
+            "Enroll": 109,
             "Quota": 150,
             "Waitlist": 0
           }
@@ -13660,8 +13660,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 84,
+            "Avail": 1,
+            "Enroll": 83,
             "Instructor": [
               "ZHANG, Nevin Lianwen"
             ],
@@ -13673,8 +13673,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 0,
-            "Enroll": 84,
+            "Avail": 1,
+            "Enroll": 83,
             "Quota": 84,
             "Waitlist": 3
           }
@@ -13687,7 +13687,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course is an introduction to the foundation of computation. Topics covered include set theory and  countability, formal languages, finite automata and regular languages, pushdown automata and context-free languages, Turing machines, undecidability, P and NP, NP completeness.",
-        "Enroll": 84,
+        "Enroll": 83,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -14001,8 +14001,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 45,
-            "Enroll": 35,
+            "Avail": 43,
+            "Enroll": 37,
             "Instructor": [
               "FUNG, Yi R. (May)"
             ],
@@ -14014,8 +14014,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 45,
-            "Enroll": 35,
+            "Avail": 43,
+            "Enroll": 37,
             "Quota": 80,
             "Waitlist": 0
           }
@@ -14028,7 +14028,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Human language technology for text and spoken language. Machine learning, syntactic parsing, semantic interpretation, and context-based approaches to machine translation, text mining, and web search.",
-        "Enroll": 35,
+        "Enroll": 37,
         "Exclusion": "COMP 5221",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -15478,7 +15478,7 @@
               "ZHANG, Zihan"
             ],
             "Quota": 90,
-            "Waitlist": 99
+            "Waitlist": 97
           }
         },
         "Others": {},
@@ -15523,7 +15523,7 @@
         },
         "Term": "2610",
         "Title": "Machine Learning",
-        "Waitlist": 99
+        "Waitlist": 97
       }
     },
     "COMP5222": {
@@ -15538,7 +15538,7 @@
               "SONG, Yangqiu"
             ],
             "Quota": 60,
-            "Waitlist": 19
+            "Waitlist": 18
           }
         },
         "Others": {},
@@ -15578,7 +15578,7 @@
         },
         "Term": "2610",
         "Title": "Advanced Machine Learning with Graphs",
-        "Waitlist": 19
+        "Waitlist": 18
       }
     },
     "COMP5331": {
@@ -15593,7 +15593,7 @@
               "WONG, Raymond Chi Wing"
             ],
             "Quota": 110,
-            "Waitlist": 31
+            "Waitlist": 28
           }
         },
         "Others": {},
@@ -15634,7 +15634,7 @@
         },
         "Term": "2610",
         "Title": "Knowledge Discovery in Databases",
-        "Waitlist": 31
+        "Waitlist": 28
       }
     },
     "COMP5411": {
@@ -15649,7 +15649,7 @@
               "SANDER, Pedro"
             ],
             "Quota": 60,
-            "Waitlist": 26
+            "Waitlist": 27
           }
         },
         "Others": {},
@@ -15689,7 +15689,7 @@
         },
         "Term": "2610",
         "Title": "Advanced Computer Graphics",
-        "Waitlist": 26
+        "Waitlist": 27
       }
     },
     "COMP5621": {
@@ -15704,7 +15704,7 @@
               "OUYANG, Xiaomin"
             ],
             "Quota": 80,
-            "Waitlist": 47
+            "Waitlist": 46
           }
         },
         "Others": {},
@@ -15740,7 +15740,7 @@
         },
         "Term": "2610",
         "Title": "Computer Networks",
-        "Waitlist": 47
+        "Waitlist": 46
       }
     },
     "COMP5713": {
@@ -15749,13 +15749,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 60,
+            "Avail": 1,
+            "Enroll": 59,
             "Instructor": [
               "CHENG, Siu Wing"
             ],
             "Quota": 60,
-            "Waitlist": 8
+            "Waitlist": 7
           }
         },
         "Others": {},
@@ -15769,7 +15769,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "An introductory course in Computational Geometry.  Algorithms for manipulating geometric objects.  Topics include Convex Hulls, Voronoi Diagrams, Point Location, Triangulations, Randomized Algorithms, Point-Line Duality.",
-        "Enroll": 60,
+        "Enroll": 59,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -15791,7 +15791,7 @@
         },
         "Term": "2610",
         "Title": "Computational Geometry",
-        "Waitlist": 8
+        "Waitlist": 7
       }
     },
     "COMP6411D": {
@@ -15851,13 +15851,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 14,
-            "Enroll": 46,
+            "Avail": 13,
+            "Enroll": 47,
             "Instructor": [
               "JACOBSEN, Arno"
             ],
             "Quota": 60,
-            "Waitlist": 3
+            "Waitlist": 2
           }
         },
         "Others": {},
@@ -15871,7 +15871,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This introductory course provides a foundational overview of quantum information processing, aimed at students with little or no prior background in quantum theory. Topics include basic principles of quantum mechanics relevant to computation, qubits and quantum gates, superposition, entanglement, and simple quantum algorithms. The course emphasizes the computer science perspective, exploring how quantum concepts translate into computational models and problem-solving approaches. Students will engage with selected contemporary literature, gaining exposure to emerging research directions such as quantum algorithms, quantum machine learning, and distributed quantum computing via student-led presentations. As a culminating activity, students will work individually or in small groups on a focused, research-oriented project-developing it from inception to realization and delivering a final presentation. By the end of the course, participants will understand core concepts, appreciate the potential and limitations of quantum computation, and be equipped to follow to some extend current developments in the field.",
-        "Enroll": 46,
+        "Enroll": 47,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -15893,7 +15893,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Quantum Information Processing",
-        "Waitlist": 3
+        "Waitlist": 2
       }
     },
     "COMP6911": {
@@ -15905,8 +15905,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 28,
-            "Enroll": 122,
+            "Avail": 27,
+            "Enroll": 123,
             "Quota": 150,
             "Waitlist": 11
           }
@@ -17734,8 +17734,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 3,
-            "Enroll": 57,
+            "Avail": 4,
+            "Enroll": 56,
             "Instructor": [
               "CHEN, Junfeng"
             ],
@@ -17747,8 +17747,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 3,
-            "Enroll": 27,
+            "Avail": 4,
+            "Enroll": 26,
             "Quota": 30,
             "Waitlist": 0
           },
@@ -17767,7 +17767,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course introduces fundamental principles and techniques of statistical modeling for uncovering patterns and making predictions from data. Various statistical learning methods routinely used in the fields of data science and machine learning will be covered, including linear regression, classification, random forest, support vector machines, dimension reduction, clustering, graphical models, and neural networks. The course contents include both theoretical concepts and Python coding demonstrations to help students develop a solid understanding of the core principles and gain practical experience in algorithm implementation. Through conceptual and hands-on explorations, students will acquire essential knowledge and skills for careers in a society that is increasingly driven by data and machine intelligence.",
-        "Enroll": 57,
+        "Enroll": 56,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -18460,7 +18460,7 @@
               "DORDAL CARRERAS, Marc"
             ],
             "Quota": 70,
-            "Waitlist": 23
+            "Waitlist": 22
           },
           "L02": {
             "Avail": 0,
@@ -18481,8 +18481,8 @@
             "Waitlist": 0
           },
           "L04": {
-            "Avail": 28,
-            "Enroll": 42,
+            "Avail": 27,
+            "Enroll": 43,
             "Instructor": [
               "CHEN, Zhang"
             ],
@@ -18505,7 +18505,7 @@
               "DING, Fei"
             ],
             "Quota": 70,
-            "Waitlist": 29
+            "Waitlist": 28
           },
           "L07": {
             "Avail": 0,
@@ -18532,7 +18532,7 @@
               "DING, Fei"
             ],
             "Quota": 70,
-            "Waitlist": 22
+            "Waitlist": 21
           },
           "L10": {
             "Avail": 0,
@@ -18541,7 +18541,7 @@
               "LI, Yao Amber"
             ],
             "Quota": 70,
-            "Waitlist": 12
+            "Waitlist": 13
           }
         },
         "Others": {},
@@ -18551,7 +18551,7 @@
             "Avail": 0,
             "Enroll": 70,
             "Quota": 70,
-            "Waitlist": 23
+            "Waitlist": 22
           },
           "T02": {
             "Avail": 0,
@@ -18566,8 +18566,8 @@
             "Waitlist": 0
           },
           "T04": {
-            "Avail": 28,
-            "Enroll": 42,
+            "Avail": 27,
+            "Enroll": 43,
             "Quota": 70,
             "Waitlist": 0
           },
@@ -18581,7 +18581,7 @@
             "Avail": 0,
             "Enroll": 70,
             "Quota": 70,
-            "Waitlist": 29
+            "Waitlist": 28
           },
           "T07": {
             "Avail": 0,
@@ -18599,13 +18599,13 @@
             "Avail": 0,
             "Enroll": 70,
             "Quota": 70,
-            "Waitlist": 22
+            "Waitlist": 21
           },
           "T10": {
             "Avail": 0,
             "Enroll": 70,
             "Quota": 70,
-            "Waitlist": 12
+            "Waitlist": 13
           }
         }
       },
@@ -18616,7 +18616,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Theory of national income determination and business fluctuation; monetary and fiscal policies; selected topics in macroeconomic policies and open economy macroeconomics. Students with non-local qualifications should seek department’s or school’s approval for enrollment in the course.",
-        "Enroll": 632,
+        "Enroll": 633,
         "Exclusion": "ECON 1221, ECON 3123, ECON 3143, SOSC 1440",
         "Exclusion-of": [
           "ECON1221",
@@ -18655,7 +18655,7 @@
         },
         "Term": "2610",
         "Title": "Macroeconomics",
-        "Waitlist": 146
+        "Waitlist": 144
       }
     },
     "ECON2174": {
@@ -21474,13 +21474,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 4,
-            "Enroll": 396,
+            "Avail": 5,
+            "Enroll": 395,
             "Instructor": [
               "GUAN, Isabel"
             ],
             "Quota": 400,
-            "Waitlist": 79
+            "Waitlist": 78
           }
         },
         "Others": {},
@@ -21502,7 +21502,7 @@
             "Avail": 0,
             "Enroll": 84,
             "Quota": 84,
-            "Waitlist": 13
+            "Waitlist": 12
           },
           "T4": {
             "Avail": 0,
@@ -21511,8 +21511,8 @@
             "Waitlist": 45
           },
           "T5": {
-            "Avail": 22,
-            "Enroll": 62,
+            "Avail": 23,
+            "Enroll": 61,
             "Quota": 84,
             "Waitlist": 9
           }
@@ -21525,7 +21525,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This general-education course introduces the basics of electronic and information technology and their applications to daily-life consumer electronics and communication devices. Contents include the representation of signals in the time and frequency domains; digitization of information; coding for data compression and error protection; transmission of signals; cellular mobile phones and wireless communications; and the Internet. It is expected that through studying these technologies and how they address the problems encountered in the information technology area, students will also grasp the skills in solving problems with engineering approach and spirit and appreciate how these technologies impact the society.",
-        "Enroll": 396,
+        "Enroll": 395,
         "Exclusion": "any ELEC courses of 2000-level or above",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -21549,7 +21549,7 @@
         },
         "Term": "2610",
         "Title": "Electronic and Information Technology",
-        "Waitlist": 79
+        "Waitlist": 78
       }
     },
     "ELEC1100": {
@@ -22554,7 +22554,7 @@
             "Avail": 0,
             "Enroll": 64,
             "Quota": 64,
-            "Waitlist": 1
+            "Waitlist": 2
           },
           "LA4": {
             "Avail": 4,
@@ -23043,8 +23043,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 10,
-            "Enroll": 278,
+            "Avail": 9,
+            "Enroll": 279,
             "Quota": 288,
             "Waitlist": 0
           }
@@ -23248,14 +23248,14 @@
       "Data": {
         "Labs": {
           "LA1": {
-            "Avail": 10,
-            "Enroll": 30,
+            "Avail": 8,
+            "Enroll": 32,
             "Quota": 40,
             "Waitlist": 0
           },
           "LA2": {
-            "Avail": 7,
-            "Enroll": 33,
+            "Avail": 9,
+            "Enroll": 31,
             "Quota": 40,
             "Waitlist": 0
           },
@@ -23449,7 +23449,7 @@
             "Avail": 9,
             "Enroll": 19,
             "Quota": 28,
-            "Waitlist": 3
+            "Waitlist": 2
           },
           "LA3": {
             "Avail": 11,
@@ -23472,7 +23472,7 @@
               "YUE, Chik Patrick"
             ],
             "Quota": 80,
-            "Waitlist": 13
+            "Waitlist": 12
           }
         },
         "Others": {},
@@ -23488,7 +23488,7 @@
             "Avail": 4,
             "Enroll": 36,
             "Quota": 40,
-            "Waitlist": 4
+            "Waitlist": 3
           }
         }
       },
@@ -23531,7 +23531,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Integrated Circuits and Systems",
-        "Waitlist": 13
+        "Waitlist": 12
       }
     },
     "ELEC3410": {
@@ -23913,8 +23913,8 @@
             "Waitlist": 0
           },
           "T26": {
-            "Avail": 1,
-            "Enroll": 4,
+            "Avail": 0,
+            "Enroll": 5,
             "Quota": 5,
             "Waitlist": 0
           },
@@ -24747,10 +24747,10 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 0,
-            "Enroll": 136,
-            "Quota": 136,
-            "Waitlist": 5
+            "Avail": 1,
+            "Enroll": 140,
+            "Quota": 141,
+            "Waitlist": 1
           }
         },
         "Tutorial": {}
@@ -24800,9 +24800,9 @@
         "Research": {
           "R1": {
             "Avail": 0,
-            "Enroll": 10,
-            "Quota": 10,
-            "Waitlist": 2
+            "Enroll": 12,
+            "Quota": 12,
+            "Waitlist": 0
           }
         },
         "Tutorial": {}
@@ -25251,7 +25251,7 @@
               "POON, Andrew Wing On"
             ],
             "Quota": 21,
-            "Waitlist": 3
+            "Waitlist": 4
           }
         },
         "Others": {},
@@ -25287,7 +25287,7 @@
         },
         "Term": "2610",
         "Title": "Advanced Photonics Technologies",
-        "Waitlist": 3
+        "Waitlist": 4
       }
     },
     "ELEC5130": {
@@ -25523,7 +25523,7 @@
               "ZHANG, Jun"
             ],
             "Quota": 24,
-            "Waitlist": 86
+            "Waitlist": 84
           }
         },
         "Others": {},
@@ -25559,7 +25559,7 @@
         },
         "Term": "2610",
         "Title": "Neural Data Representation, Generation, and Compression",
-        "Waitlist": 86
+        "Waitlist": 84
       }
     },
     "ELEC5460": {
@@ -26137,7 +26137,7 @@
               "CHUN, Daniel"
             ],
             "Quota": 60,
-            "Waitlist": 46
+            "Waitlist": 47
           }
         },
         "Others": {},
@@ -26173,7 +26173,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Smart City Development",
-        "Waitlist": 46
+        "Waitlist": 47
       }
     },
     "EMIA2010A": {
@@ -26656,7 +26656,7 @@
               "SONG, Yunya"
             ],
             "Quota": 20,
-            "Waitlist": 36
+            "Waitlist": 35
           }
         },
         "Others": {},
@@ -26692,7 +26692,7 @@
         },
         "Term": "2610",
         "Title": "Human-AI Interaction in the Age of Generative Media",
-        "Waitlist": 36
+        "Waitlist": 35
       }
     },
     "EMIA6950A": {
@@ -28175,7 +28175,7 @@
               "YING, Qi"
             ],
             "Quota": 104,
-            "Waitlist": 205
+            "Waitlist": 204
           }
         },
         "Others": {},
@@ -28211,7 +28211,7 @@
         },
         "Term": "2610",
         "Title": "Environment and Health",
-        "Waitlist": 205
+        "Waitlist": 204
       }
     },
     "ENVR1150": {
@@ -29904,7 +29904,7 @@
               "MAK, Vincent"
             ],
             "Quota": 75,
-            "Waitlist": 3
+            "Waitlist": 4
           },
           "L9": {
             "Avail": 18,
@@ -30000,7 +30000,7 @@
         },
         "Term": "2610",
         "Title": "Financial Management",
-        "Waitlist": 135
+        "Waitlist": 136
       }
     },
     "FINA3001": {
@@ -30072,13 +30072,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 2,
-            "Enroll": 63,
+            "Avail": 0,
+            "Enroll": 65,
             "Instructor": [
               "MUKHERJEE, Abhiroop"
             ],
             "Quota": 65,
-            "Waitlist": 14
+            "Waitlist": 12
           },
           "L2": {
             "Avail": 0,
@@ -30105,7 +30105,7 @@
               "AOYAGI, Jun"
             ],
             "Quota": 65,
-            "Waitlist": 7
+            "Waitlist": 8
           }
         },
         "Others": {},
@@ -30119,7 +30119,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course studies the concepts and evidence relevant to the management of investment portfolios. Topics include diversification, asset allocation, portfolio optimization, factor models, the relation between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short) strategies, mutual funds, performance evaluation, long-horizon investing and simulation.",
-        "Enroll": 258,
+        "Enroll": 260,
         "Exclusion": "",
         "Exclusion-of": [
           "FINA1303"
@@ -30160,7 +30160,7 @@
         },
         "Term": "2610",
         "Title": "Intermediate Investments",
-        "Waitlist": 56
+        "Waitlist": 55
       }
     },
     "FINA3111": {
@@ -30384,8 +30384,8 @@
             "Waitlist": 0
           },
           "LA2": {
-            "Avail": 9,
-            "Enroll": 51,
+            "Avail": 10,
+            "Enroll": 50,
             "Quota": 60,
             "Waitlist": 0
           }
@@ -30624,8 +30624,8 @@
             "Waitlist": 20
           },
           "L2": {
-            "Avail": 4,
-            "Enroll": 56,
+            "Avail": 5,
+            "Enroll": 55,
             "Instructor": [
               "ALEKSEEV, Maxim"
             ],
@@ -30644,7 +30644,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Pricing of bonds, term structure models, duration analysis and immunization techniques, valuation of interest rate options, convertible bonds, mortgage-backed securities, pricing credit derivatives, bond portfolio construction and management.",
-        "Enroll": 116,
+        "Enroll": 115,
         "Exclusion": "",
         "Exclusion-of": [
           "IEDA3330"
@@ -33290,8 +33290,8 @@
             "Waitlist": 0
           },
           "T05": {
-            "Avail": 7,
-            "Enroll": 18,
+            "Avail": 6,
+            "Enroll": 19,
             "Quota": 25,
             "Waitlist": 0
           },
@@ -33386,8 +33386,8 @@
             "Waitlist": 0
           },
           "T21": {
-            "Avail": 1,
-            "Enroll": 24,
+            "Avail": 2,
+            "Enroll": 23,
             "Quota": 25,
             "Waitlist": 0
           },
@@ -33848,7 +33848,7 @@
               "TAY, Dennis"
             ],
             "Quota": 100,
-            "Waitlist": 85
+            "Waitlist": 84
           }
         },
         "Others": {},
@@ -33890,7 +33890,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Language",
-        "Waitlist": 85
+        "Waitlist": 84
       }
     },
     "HUMA1100": {
@@ -33968,8 +33968,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 3,
-            "Enroll": 147,
+            "Avail": 2,
+            "Enroll": 148,
             "Instructor": [
               "DROSCHA, Isaac David"
             ],
@@ -33997,7 +33997,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "From the power and beauty of the orchestra to masterpieces of the church and concert hall, students will gain an in-depth appreciation for the history and fundamentals of Western classical music. The listening and analytical skills demonstrated will bring about a deeper understanding of music as an art form. Previous musical training, albeit helpful, is not required.",
-        "Enroll": 297,
+        "Enroll": 298,
         "Exclusion": "CORE 1632",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -34165,7 +34165,7 @@
               "CHU, Shun"
             ],
             "Quota": 64,
-            "Waitlist": 9
+            "Waitlist": 10
           },
           "L2": {
             "Avail": 2,
@@ -34184,7 +34184,7 @@
             "Avail": 2,
             "Enroll": 62,
             "Quota": 64,
-            "Waitlist": 9
+            "Waitlist": 10
           },
           "T2": {
             "Avail": 2,
@@ -34227,7 +34227,7 @@
         },
         "Term": "2610",
         "Title": "Photography",
-        "Waitlist": 17
+        "Waitlist": 18
       }
     },
     "HUMA1156": {
@@ -34324,7 +34324,7 @@
               "DROSCHA, Isaac David"
             ],
             "Quota": 60,
-            "Waitlist": 65
+            "Waitlist": 66
           }
         },
         "Others": {},
@@ -34334,7 +34334,7 @@
             "Avail": 0,
             "Enroll": 30,
             "Quota": 30,
-            "Waitlist": 63
+            "Waitlist": 64
           },
           "T2": {
             "Avail": 5,
@@ -34373,7 +34373,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Acting and Public Speaking",
-        "Waitlist": 65
+        "Waitlist": 66
       }
     },
     "HUMA1160": {
@@ -34404,7 +34404,7 @@
               "XU, Ying"
             ],
             "Quota": 35,
-            "Waitlist": 60
+            "Waitlist": 59
           }
         },
         "Others": {},
@@ -34440,7 +34440,7 @@
         },
         "Term": "2610",
         "Title": "Weiqi and Chinese Culture",
-        "Waitlist": 129
+        "Waitlist": 128
       }
     },
     "HUMA1210": {
@@ -34458,13 +34458,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 100,
+            "Avail": 1,
+            "Enroll": 99,
             "Instructor": [
               "DU, Daisy Yan"
             ],
             "Quota": 100,
-            "Waitlist": 200
+            "Waitlist": 197
           }
         },
         "Others": {},
@@ -34478,7 +34478,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course approaches Chinese women as both historical and fictional figures to unravel the complicated relationship between history and visual representation. Each week revolves around a special topic and a film about Chinese women located in a specific socio-historical period. This course is in chronological order, beginning from Republican women to contemporary female immigrants in the age of globalization. The changing images of women on screen went hand in hand with major cinematic movements in history, including the left turn in the 1930s, the rise of animation, socialist filmmaking, model opera film, underground/independent filmmaking, and the cinematic globalization. The purpose of this course is to build a foundation for students from different academic backgrounds who may have little or no knowledge of Chinese culture and history. Proficiency in Chinese is a plus but not required because all reading materials and class discussion are in English.",
-        "Enroll": 100,
+        "Enroll": 99,
         "Exclusion": "CORE 1601",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -34504,7 +34504,7 @@
         },
         "Term": "2610",
         "Title": "Chinese Women on Screen",
-        "Waitlist": 200
+        "Waitlist": 197
       }
     },
     "HUMA1301": {
@@ -34520,8 +34520,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 99,
+            "Avail": 3,
+            "Enroll": 97,
             "Instructor": [
               "TBA"
             ],
@@ -34540,7 +34540,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course explores the complex interplay between literature and cinema. Selected novels, short stories and plays are analyzed in relation to their cinematic adaptations to gain an understanding of the masterpieces of world literature, and the possibilities and challenges involved in their cinematic manifestations.",
-        "Enroll": 99,
+        "Enroll": 97,
         "Exclusion": "CORE 1603",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -34704,7 +34704,7 @@
               "ZHANG, Lok Cheung Lawrence"
             ],
             "Quota": 69,
-            "Waitlist": 20
+            "Waitlist": 21
           }
         },
         "Others": {},
@@ -34714,7 +34714,7 @@
             "Avail": 0,
             "Enroll": 69,
             "Quota": 69,
-            "Waitlist": 20
+            "Waitlist": 21
           }
         }
       },
@@ -34753,7 +34753,7 @@
         },
         "Term": "2610",
         "Title": "Modern China",
-        "Waitlist": 20
+        "Waitlist": 21
       }
     },
     "HUMA1622": {
@@ -34910,7 +34910,7 @@
               "TIAN, Mi"
             ],
             "Quota": 87,
-            "Waitlist": 188
+            "Waitlist": 187
           }
         },
         "Others": {},
@@ -34950,7 +34950,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Chinese Art",
-        "Waitlist": 188
+        "Waitlist": 187
       }
     },
     "HUMA1673": {
@@ -35037,8 +35037,8 @@
             "Waitlist": 0
           },
           "L2": {
-            "Avail": 43,
-            "Enroll": 37,
+            "Avail": 44,
+            "Enroll": 36,
             "Instructor": [
               "CABOARA, Marco"
             ],
@@ -35057,7 +35057,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Marco Polo is the world’s most famous traveler and we all have heard something about him and his travels to China. Marco Polo stands for the first direct contact between Europe and China in the Age of the first Eurasian Globalization under the Mongol Empire, the model of East-West exchange. Yet everything known about him comes from his book, which was written more than 700 years ago and whose reliability has been often questioned. This course will introduce students to the text, his two authors and the wider historical context surrounding the travel and its written account. At the end of the course students will have acquired a deeper understanding of cultural exchange between Europe and China in the Middle Ages as well as in later periods, and know the answers to questions such as “Did Marco Polo go to China?” and “Did Marco Polo bring spaghetti back to Europe?”.",
-        "Enroll": 62,
+        "Enroll": 61,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -35101,7 +35101,7 @@
               "NAM, Sai Lok"
             ],
             "Quota": 125,
-            "Waitlist": 164
+            "Waitlist": 163
           },
           "L2": {
             "Avail": 0,
@@ -35110,7 +35110,7 @@
               "NAM, Sai Lok"
             ],
             "Quota": 125,
-            "Waitlist": 197
+            "Waitlist": 196
           }
         },
         "Others": {},
@@ -35152,7 +35152,7 @@
         },
         "Term": "2610",
         "Title": "The Art of Thinking in the Hong Kong Context",
-        "Waitlist": 361
+        "Waitlist": 359
       }
     },
     "HUMA1811": {
@@ -35345,7 +35345,7 @@
               "LO, See Yin"
             ],
             "Quota": 25,
-            "Waitlist": 3
+            "Waitlist": 4
           }
         },
         "Others": {},
@@ -35381,7 +35381,7 @@
         },
         "Term": "2610",
         "Title": "Find Your Voice: From Classical to Broadway",
-        "Waitlist": 3
+        "Waitlist": 4
       }
     },
     "HUMA2031": {
@@ -35397,8 +35397,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 26,
-            "Enroll": 54,
+            "Avail": 25,
+            "Enroll": 55,
             "Instructor": [
               "YIU, Yuk Man Carine"
             ],
@@ -35410,8 +35410,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 5,
-            "Enroll": 35,
+            "Avail": 4,
+            "Enroll": 36,
             "Quota": 40,
             "Waitlist": 0
           },
@@ -35430,7 +35430,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Study of the Cantonese language, from the perspective of linguistics which emphasizes the scientific study of language. The course focuses on the sound and the grammatical systems of Cantonese. It also examines historical and socio-linguistic issues pertinent to the development of Cantonese in the context of Hong Kong. Students enrolling in this course are expected to have basic knowledge of Chinese.",
-        "Enroll": 54,
+        "Enroll": 55,
         "Exclusion": "CORE 2502",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -35904,8 +35904,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 11,
-            "Enroll": 69,
+            "Avail": 10,
+            "Enroll": 70,
             "Instructor": [
               "TBA"
             ],
@@ -35917,8 +35917,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 11,
-            "Enroll": 69,
+            "Avail": 10,
+            "Enroll": 70,
             "Quota": 80,
             "Waitlist": 6
           }
@@ -35931,7 +35931,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course will examine contemporary films from East and Southeast Asia with a particular attention to their place in a system of global flows of cultural commodities and capital. Our point of departure will be an unpacking of the category of “Asian Cinema” (and its constituent national cinemas) by highlighting how it always already bears within its sign a trans-national dimension. Beginning with an accounting of the interlinked history of cinema (and the schema of visuality into which it emerged) and the nation-state form, we will discuss such issues as the production of nostalgia, diasporic translingual practices, the orientalist gaze, and the cinematic mode of production to articulate the stakes of the practices of looking we enact in the present when the idea of “Asian cinema” is invoked.",
-        "Enroll": 69,
+        "Enroll": 70,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -36029,8 +36029,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 20,
-            "Enroll": 60,
+            "Avail": 19,
+            "Enroll": 61,
             "Instructor": [
               "POSADAS, Baryon Tensor",
               "ZUERN, Tobias Benedikt"
@@ -36043,8 +36043,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 20,
-            "Enroll": 60,
+            "Avail": 19,
+            "Enroll": 61,
             "Quota": 80,
             "Waitlist": 0
           }
@@ -36057,7 +36057,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course offers a broad introduction to global science fiction at the undergraduate level. It is designed with the goal of providing different disciplinary perspectives on understanding and appreciating the genre of science fiction, with a focus on film. Students will watch one to two films (or selections thereof) per week, in addition to attending lectures and reading supporting literature. The course explores a range of social and philosophical themes in science fiction, including colonialism, migration, gender, robotics, time travel, etc., and it is framed by the following questions: What is science fiction and why is it so popular? What is the relationship between science and fiction? How has a rhetoric of science-fictionality increasingly mediated broader historical and sociopolitical questions of our time? How has the genre been differently conceived across cultures and time periods?",
-        "Enroll": 60,
+        "Enroll": 61,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -36095,23 +36095,23 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 13,
-            "Enroll": 67,
+            "Avail": 15,
+            "Enroll": 65,
             "Instructor": [
               "CHANG, David Cheng"
             ],
             "Quota": 80,
-            "Waitlist": 3
+            "Waitlist": 2
           }
         },
         "Others": {},
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 13,
-            "Enroll": 67,
+            "Avail": 15,
+            "Enroll": 65,
             "Quota": 80,
-            "Waitlist": 3
+            "Waitlist": 2
           }
         }
       },
@@ -36122,7 +36122,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course presents the turbulent history of twentieth century China through documentary films. In addition to reading historical texts, students will study various films made by journalists and filmmakers of the time and in recent years. In the first half of the term, the course will cover major historical events from the 1911 revolution to 1989. In the second half, through closely studying documentary films the course will focus on several themes, including China's role in WWII, the Anti-Rightist Campaign, the Great Leap Forward, the Cultural Revolution, and the Tiananmen Incident in 1989. Some of the films are in English and some in Chinese with subtitles.",
-        "Enroll": 67,
+        "Enroll": 65,
         "Exclusion": "CORE 2523",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -36148,7 +36148,7 @@
         },
         "Term": "2610",
         "Title": "20th-Century China in Documentary Films",
-        "Waitlist": 3
+        "Waitlist": 2
       }
     },
     "HUMA2470": {
@@ -36229,8 +36229,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 80,
+            "Avail": 1,
+            "Enroll": 79,
             "Instructor": [
               "DERMAN, Joshua"
             ],
@@ -36249,7 +36249,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course surveys German history from 1914 to 1945, with a focus on the rise, rule, and destruction of National Socialism. Topics to be covered include the First World War, the Weimar Republic, the emergence of the National Socialist movement, consent and coercion in the Third Reich, the racial state, Hitler's leadership, the Second World War, and the Holocaust. In addition to mastering historical concepts and narratives, students will sharpen their abilities to read sources and write analytical essays.",
-        "Enroll": 80,
+        "Enroll": 79,
         "Exclusion": "CORE 2526",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -36349,8 +36349,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 11,
-            "Enroll": 69,
+            "Avail": 12,
+            "Enroll": 68,
             "Instructor": [
               "MA, Jianxiong"
             ],
@@ -36362,8 +36362,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 11,
-            "Enroll": 69,
+            "Avail": 12,
+            "Enroll": 68,
             "Quota": 80,
             "Waitlist": 13
           }
@@ -36376,7 +36376,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course aims to study the cultural diversity in Myanmar, Thailand, Vietnam, Laos and Cambodia, and the complex historical development of majority/minority relations and the formulation of cultural identities among different peoples, as well as the dynamic relations among religion, ethnicity, tourism and modernity in this region.",
-        "Enroll": 69,
+        "Enroll": 68,
         "Exclusion": "CORE 2555",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -36488,7 +36488,7 @@
               "NAM, Kyung-ah"
             ],
             "Quota": 80,
-            "Waitlist": 29
+            "Waitlist": 30
           }
         },
         "Others": {},
@@ -36528,7 +36528,7 @@
         },
         "Term": "2610",
         "Title": "Ethical Theories and Contemporary Issues",
-        "Waitlist": 29
+        "Waitlist": 30
       }
     },
     "HUMA3050": {
@@ -36751,7 +36751,7 @@
               "NAM, Kyung-ah"
             ],
             "Quota": 80,
-            "Waitlist": 16
+            "Waitlist": 17
           }
         },
         "Others": {},
@@ -36791,7 +36791,7 @@
         },
         "Term": "2610",
         "Title": "Philosophical Inquiry into the Modern World",
-        "Waitlist": 16
+        "Waitlist": 17
       }
     },
     "HUMA4000O": {
@@ -36981,8 +36981,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 3,
-            "Enroll": 17,
+            "Avail": 4,
+            "Enroll": 16,
             "Instructor": [
               "QIN, Zhen Quentin"
             ],
@@ -37001,7 +37001,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course is an introduction to the study of sounds in Mandarin Chinese. The course will cover fundamental concepts in phonetics and phonology and compare the sounds of Mandarin with those of other languages. Other topics include: methodology, the typology, learning and evolution of sounds, the subgrouping of Chinese dialects, etc.",
-        "Enroll": 17,
+        "Enroll": 16,
         "Exclusion": "HMMA 5002",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -37036,13 +37036,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 8,
-            "Enroll": 12,
+            "Avail": 7,
+            "Enroll": 13,
             "Instructor": [
               "YIU, Yuk Man Carine"
             ],
             "Quota": 20,
-            "Waitlist": 2
+            "Waitlist": 3
           }
         },
         "Others": {},
@@ -37056,7 +37056,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course deals with various issues of Cantonese, including sounds and tones, word formation, syntax and pragmatics. It will review the history of the language by studying texts from the early 19th century to the present; and examine the current linguistic changes that have redefined Hong Kong speech as a special variety of Cantonese.",
-        "Enroll": 12,
+        "Enroll": 13,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -37078,7 +37078,7 @@
         },
         "Term": "2610",
         "Title": "Cantonese Linguistics",
-        "Waitlist": 2
+        "Waitlist": 3
       }
     },
     "HUMA5310": {
@@ -37348,7 +37348,7 @@
               "CHANG, David Cheng"
             ],
             "Quota": 20,
-            "Waitlist": 6
+            "Waitlist": 5
           }
         },
         "Others": {},
@@ -37384,7 +37384,7 @@
         },
         "Term": "2610",
         "Title": "Major Issues in the History of U.S.-China Relations",
-        "Waitlist": 6
+        "Waitlist": 5
       }
     },
     "HUMA5755": {
@@ -39933,8 +39933,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 23,
-            "Enroll": 7,
+            "Avail": 22,
+            "Enroll": 8,
             "Quota": 30,
             "Waitlist": 0
           }
@@ -39981,8 +39981,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 8,
-            "Enroll": 92,
+            "Avail": 9,
+            "Enroll": 91,
             "Quota": 100,
             "Waitlist": 0
           }
@@ -41241,8 +41241,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 3,
-            "Enroll": 42,
+            "Avail": 4,
+            "Enroll": 41,
             "Instructor": [
               "SHAO, Qijia"
             ],
@@ -41261,7 +41261,7 @@
         "Consent": true,
         "Credits": 3,
         "Description": "This course explores the integration of Artificial Intelligence (AI) and the Internet of Things (IoT) in smart health, commonly known as AIoT. Students will learn how intelligent algorithms and connected hardware devices work together to enhance patient care, streamline medical processes, and improve diagnostic accuracy. The curriculum covers foundational AI methods, IoT architecture, real-time health monitoring, wellness management applications, and essential knowledge of data privacy, ethical considerations, and regulatory compliance in AIoT. Through lectures, and a team-based final project, students will gain hands-on experience and develop the skills needed to harness AIoT technologies for proactive, personalized health solutions.",
-        "Enroll": 42,
+        "Enroll": 41,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -41298,7 +41298,7 @@
               "WANG, Ziqi"
             ],
             "Quota": 69,
-            "Waitlist": 4
+            "Waitlist": 5
           }
         },
         "Others": {},
@@ -41334,7 +41334,7 @@
         },
         "Term": "2610",
         "Title": "RoboFab: Robotic Fabrication with Python",
-        "Waitlist": 4
+        "Waitlist": 5
       }
     },
     "ISDN5300": {
@@ -41730,7 +41730,7 @@
               "KIM, Yongsuk"
             ],
             "Quota": 74,
-            "Waitlist": 15
+            "Waitlist": 17
           }
         },
         "Others": {},
@@ -41770,7 +41770,7 @@
         },
         "Term": "2610",
         "Title": "Technology and Innovation: Social and Business Perspectives",
-        "Waitlist": 54
+        "Waitlist": 56
       }
     },
     "ISOM1400": {
@@ -41908,7 +41908,7 @@
             "Avail": 0,
             "Enroll": 46,
             "Quota": 46,
-            "Waitlist": 62
+            "Waitlist": 61
           },
           "LA02": {
             "Avail": 0,
@@ -41962,7 +41962,7 @@
             "Avail": 0,
             "Enroll": 46,
             "Quota": 46,
-            "Waitlist": 4
+            "Waitlist": 5
           },
           "LA11": {
             "Avail": 0,
@@ -42030,7 +42030,7 @@
               "HAN, Miaozhe"
             ],
             "Quota": 61,
-            "Waitlist": 36
+            "Waitlist": 35
           },
           "L07": {
             "Avail": 0,
@@ -42104,7 +42104,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Information Systems",
-        "Waitlist": 270
+        "Waitlist": 269
       }
     },
     "ISOM2020": {
@@ -42486,7 +42486,7 @@
             "Avail": 0,
             "Enroll": 60,
             "Quota": 60,
-            "Waitlist": 8
+            "Waitlist": 9
           },
           "LA08": {
             "Avail": 0,
@@ -42542,7 +42542,7 @@
               "WAN, Xuhu"
             ],
             "Quota": 100,
-            "Waitlist": 20
+            "Waitlist": 19
           },
           "L5": {
             "Avail": 19,
@@ -42606,7 +42606,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Business Analytics",
-        "Waitlist": 88
+        "Waitlist": 87
       }
     },
     "ISOM2700": {
@@ -43115,13 +43115,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 2,
-            "Enroll": 68,
+            "Avail": 0,
+            "Enroll": 70,
             "Instructor": [
               "ZHU, Wangsheng"
             ],
             "Quota": 70,
-            "Waitlist": 9
+            "Waitlist": 8
           }
         },
         "Others": {},
@@ -43135,7 +43135,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course introduces the fundamental concepts and technologies of e-commerce and e-business management. Topics include e-business models, e-business infrastructure, e-security, e-marketing, e-payment methods, web development, web analytics, and social media analytics.",
-        "Enroll": 68,
+        "Enroll": 70,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -43157,7 +43157,7 @@
         },
         "Term": "2610",
         "Title": "e-Business Management and Web Analytics",
-        "Waitlist": 9
+        "Waitlist": 8
       }
     },
     "ISOM3320": {
@@ -43684,7 +43684,7 @@
               "ZHENG, Shaohui"
             ],
             "Quota": 60,
-            "Waitlist": 19
+            "Waitlist": 18
           },
           "L2": {
             "Avail": 0,
@@ -43693,7 +43693,7 @@
               "ZHENG, Shaohui"
             ],
             "Quota": 60,
-            "Waitlist": 11
+            "Waitlist": 10
           }
         },
         "Others": {},
@@ -43703,13 +43703,13 @@
             "Avail": 0,
             "Enroll": 65,
             "Quota": 65,
-            "Waitlist": 18
+            "Waitlist": 17
           },
           "T2": {
             "Avail": 11,
             "Enroll": 54,
             "Quota": 65,
-            "Waitlist": 10
+            "Waitlist": 9
           }
         }
       },
@@ -43751,7 +43751,7 @@
         },
         "Term": "2610",
         "Title": "Business Modeling and Optimization",
-        "Waitlist": 30
+        "Waitlist": 28
       }
     },
     "ISOM3730": {
@@ -43977,7 +43977,7 @@
               "WU, Peter Ching-ting"
             ],
             "Quota": 50,
-            "Waitlist": 1
+            "Waitlist": 2
           }
         },
         "Others": {},
@@ -44013,7 +44013,7 @@
         },
         "Term": "2610",
         "Title": "Risk Management for Algo Trading",
-        "Waitlist": 1
+        "Waitlist": 2
       }
     },
     "ISOM4030": {
@@ -47706,7 +47706,7 @@
             "Avail": 0,
             "Enroll": 24,
             "Quota": 24,
-            "Waitlist": 30
+            "Waitlist": 29
           },
           "T02": {
             "Avail": 12,
@@ -47817,8 +47817,8 @@
             "Waitlist": 3
           },
           "T02": {
-            "Avail": 0,
-            "Enroll": 24,
+            "Avail": 1,
+            "Enroll": 23,
             "Quota": 24,
             "Waitlist": 8
           }
@@ -47882,7 +47882,7 @@
             "Avail": 0,
             "Enroll": 24,
             "Quota": 24,
-            "Waitlist": 5
+            "Waitlist": 6
           },
           "T03": {
             "Avail": 0,
@@ -47891,8 +47891,8 @@
             "Waitlist": 6
           },
           "T04": {
-            "Avail": 17,
-            "Enroll": 7,
+            "Avail": 16,
+            "Enroll": 8,
             "Quota": 24,
             "Waitlist": 0
           }
@@ -47945,8 +47945,8 @@
         "Research": {},
         "Tutorial": {
           "T01": {
-            "Avail": 2,
-            "Enroll": 18,
+            "Avail": 1,
+            "Enroll": 19,
             "Quota": 20,
             "Waitlist": 0
           },
@@ -47960,7 +47960,7 @@
             "Avail": 0,
             "Enroll": 20,
             "Quota": 20,
-            "Waitlist": 6
+            "Waitlist": 7
           },
           "T04": {
             "Avail": 0,
@@ -48146,7 +48146,7 @@
             "Avail": 3,
             "Enroll": 17,
             "Quota": 20,
-            "Waitlist": 4
+            "Waitlist": 5
           }
         }
       },
@@ -48270,14 +48270,14 @@
             "Waitlist": 0
           },
           "T17": {
-            "Avail": 1,
-            "Enroll": 23,
+            "Avail": 0,
+            "Enroll": 24,
             "Quota": 24,
             "Waitlist": 0
           },
           "T18": {
-            "Avail": 6,
-            "Enroll": 18,
+            "Avail": 7,
+            "Enroll": 17,
             "Quota": 24,
             "Waitlist": 0
           },
@@ -49466,7 +49466,7 @@
             "Avail": 0,
             "Enroll": 24,
             "Quota": 24,
-            "Waitlist": 2
+            "Waitlist": 3
           },
           "T04": {
             "Avail": 0,
@@ -49686,8 +49686,8 @@
             "Waitlist": 0
           },
           "T03": {
-            "Avail": 1,
-            "Enroll": 23,
+            "Avail": 0,
+            "Enroll": 24,
             "Quota": 24,
             "Waitlist": 4
           },
@@ -50066,8 +50066,8 @@
             "Waitlist": 7
           },
           "T02": {
-            "Avail": 0,
-            "Enroll": 24,
+            "Avail": 1,
+            "Enroll": 23,
             "Quota": 24,
             "Waitlist": 1
           },
@@ -50195,7 +50195,7 @@
             "Avail": 0,
             "Enroll": 32,
             "Quota": 32,
-            "Waitlist": 12
+            "Waitlist": 14
           }
         }
       },
@@ -50416,20 +50416,20 @@
             "Waitlist": 11
           },
           "T03": {
-            "Avail": 2,
-            "Enroll": 22,
+            "Avail": 1,
+            "Enroll": 23,
             "Quota": 24,
             "Waitlist": 0
           },
           "T04": {
-            "Avail": 5,
-            "Enroll": 19,
+            "Avail": 6,
+            "Enroll": 18,
             "Quota": 24,
             "Waitlist": 0
           },
           "T05": {
-            "Avail": 19,
-            "Enroll": 5,
+            "Avail": 20,
+            "Enroll": 4,
             "Quota": 24,
             "Waitlist": 0
           }
@@ -50525,8 +50525,8 @@
             "Waitlist": 0
           },
           "T02": {
-            "Avail": 15,
-            "Enroll": 9,
+            "Avail": 14,
+            "Enroll": 10,
             "Quota": 24,
             "Waitlist": 0
           }
@@ -50787,8 +50787,8 @@
         "Research": {},
         "Tutorial": {
           "T01": {
-            "Avail": 7,
-            "Enroll": 17,
+            "Avail": 6,
+            "Enroll": 18,
             "Quota": 24,
             "Waitlist": 0
           }
@@ -51937,8 +51937,8 @@
         "Research": {},
         "Tutorial": {
           "T01": {
-            "Avail": 12,
-            "Enroll": 8,
+            "Avail": 11,
+            "Enroll": 9,
             "Quota": 20,
             "Waitlist": 0
           }
@@ -53862,7 +53862,7 @@
             "Avail": 0,
             "Enroll": 90,
             "Quota": 90,
-            "Waitlist": 3
+            "Waitlist": 6
           }
         },
         "Lecture": {},
@@ -53873,7 +53873,7 @@
             "Avail": 0,
             "Enroll": 180,
             "Quota": 180,
-            "Waitlist": 6
+            "Waitlist": 7
           }
         }
       },
@@ -54309,8 +54309,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 24,
-            "Enroll": 131,
+            "Avail": 23,
+            "Enroll": 132,
             "Instructor": [
               "NGUYEN, Tuan Anh",
               "TAM, Sunny",
@@ -54332,7 +54332,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course will survey the methods and applications of biotechnology, in the aspect related to animals, microbes, agriculture, human health and environment. The consequences of developments in this area will be examined, with emphasis on the aroused great public interest and the increasing demand for the informed debate. For BIOT and BIBU students only.",
-        "Enroll": 131,
+        "Enroll": 132,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -55541,7 +55541,7 @@
               "SALVACRUZ, Joseph"
             ],
             "Quota": 60,
-            "Waitlist": 21
+            "Waitlist": 20
           }
         },
         "Others": {},
@@ -55581,7 +55581,7 @@
         },
         "Term": "2610",
         "Title": "Marketing and Society",
-        "Waitlist": 21
+        "Waitlist": 20
       }
     },
     "MARK2120": {
@@ -55596,7 +55596,7 @@
               "HAN, Tianyu"
             ],
             "Quota": 55,
-            "Waitlist": 46
+            "Waitlist": 45
           },
           "L2": {
             "Avail": 0,
@@ -55605,7 +55605,7 @@
               "HAN, Tianyu"
             ],
             "Quota": 55,
-            "Waitlist": 58
+            "Waitlist": 57
           },
           "L3": {
             "Avail": 0,
@@ -55710,7 +55710,7 @@
         },
         "Term": "2610",
         "Title": "Marketing Management",
-        "Waitlist": 206
+        "Waitlist": 204
       }
     },
     "MARK3220": {
@@ -55725,7 +55725,7 @@
               "LIU, Jia"
             ],
             "Quota": 45,
-            "Waitlist": 9
+            "Waitlist": 10
           },
           "L2": {
             "Avail": 0,
@@ -55744,7 +55744,7 @@
             "Avail": 0,
             "Enroll": 45,
             "Quota": 45,
-            "Waitlist": 9
+            "Waitlist": 10
           },
           "T2": {
             "Avail": 0,
@@ -55787,7 +55787,7 @@
         },
         "Term": "2610",
         "Title": "Marketing Research",
-        "Waitlist": 24
+        "Waitlist": 25
       }
     },
     "MARK3410": {
@@ -55814,8 +55814,8 @@
             "Waitlist": 24
           },
           "L3": {
-            "Avail": 5,
-            "Enroll": 42,
+            "Avail": 4,
+            "Enroll": 43,
             "Instructor": [
               "JUNG, Han Young"
             ],
@@ -55839,8 +55839,8 @@
             "Waitlist": 24
           },
           "T3": {
-            "Avail": 5,
-            "Enroll": 42,
+            "Avail": 4,
+            "Enroll": 43,
             "Quota": 47,
             "Waitlist": 5
           }
@@ -55853,7 +55853,7 @@
         "Consent": false,
         "Credits": 4,
         "Description": "Major aspects of promotion, with emphasis on advertising: setting of advertising objectives, strategies, tactics, choice of media, budget determination and measuring advertising effectiveness.",
-        "Enroll": 136,
+        "Enroll": 137,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -57322,8 +57322,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 150,
+            "Avail": 1,
+            "Enroll": 149,
             "Instructor": [
               "WU, Yueping"
             ],
@@ -57374,8 +57374,8 @@
             "Waitlist": 11
           },
           "T1C": {
-            "Avail": 0,
-            "Enroll": 38,
+            "Avail": 1,
+            "Enroll": 37,
             "Quota": 38,
             "Waitlist": 1
           },
@@ -57468,7 +57468,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course teaches basic application techniques in single-variable calculus and linear algebra. Key topics include: systems of linear equations and matrices, functions and graphing, derivatives and optimization, integration and applications.",
-        "Enroll": 591,
+        "Enroll": 590,
         "Exclusion": "Level 5 or above in HKDSE Mathematics Extended Module M1 or M2; MATH 1005, MATH 1006, MATH 1012 (prior to 2025-26), MATH 1013, MATH 1014, MATH 1020, MATH 1023, MATH 1024",
         "Exclusion-of": [
           "MATH1005",
@@ -57736,13 +57736,13 @@
         "Labs": {},
         "Lecture": {
           "L01": {
-            "Avail": 0,
-            "Enroll": 140,
+            "Avail": 3,
+            "Enroll": 157,
             "Instructor": [
               "CHENG, Kam Hang"
             ],
-            "Quota": 140,
-            "Waitlist": 31
+            "Quota": 160,
+            "Waitlist": 14
           },
           "L02": {
             "Avail": 0,
@@ -57754,17 +57754,17 @@
             "Waitlist": 38
           },
           "L03": {
-            "Avail": 2,
-            "Enroll": 133,
+            "Avail": 6,
+            "Enroll": 129,
             "Instructor": [
               "HUNG, Kin Ting Ken"
             ],
             "Quota": 135,
-            "Waitlist": 8
+            "Waitlist": 7
           },
           "L04": {
-            "Avail": 34,
-            "Enroll": 101,
+            "Avail": 37,
+            "Enroll": 98,
             "Instructor": [
               "CHIANG, Yik Man"
             ],
@@ -57772,17 +57772,17 @@
             "Waitlist": 0
           },
           "L05": {
-            "Avail": 9,
-            "Enroll": 126,
+            "Avail": 10,
+            "Enroll": 125,
             "Instructor": [
               "LIU, Chenkai"
             ],
             "Quota": 135,
-            "Waitlist": 3
+            "Waitlist": 2
           },
           "L06": {
-            "Avail": 33,
-            "Enroll": 102,
+            "Avail": 35,
+            "Enroll": 100,
             "Instructor": [
               "YING, Jiaxi"
             ],
@@ -57796,11 +57796,11 @@
               "TANG, Rong"
             ],
             "Quota": 135,
-            "Waitlist": 2
+            "Waitlist": 3
           },
           "L08": {
-            "Avail": 12,
-            "Enroll": 123,
+            "Avail": 14,
+            "Enroll": 121,
             "Instructor": [
               "TANG, Xun"
             ],
@@ -57817,8 +57817,8 @@
             "Waitlist": 0
           },
           "L10": {
-            "Avail": 15,
-            "Enroll": 120,
+            "Avail": 16,
+            "Enroll": 119,
             "Instructor": [
               "QUAN, Xueyang"
             ],
@@ -57840,27 +57840,27 @@
         "Tutorial": {
           "T01A": {
             "Avail": 0,
-            "Enroll": 35,
-            "Quota": 35,
-            "Waitlist": 7
+            "Enroll": 40,
+            "Quota": 40,
+            "Waitlist": 2
           },
           "T01B": {
             "Avail": 0,
-            "Enroll": 35,
-            "Quota": 35,
-            "Waitlist": 9
+            "Enroll": 40,
+            "Quota": 40,
+            "Waitlist": 4
           },
           "T01C": {
-            "Avail": 0,
-            "Enroll": 35,
-            "Quota": 35,
-            "Waitlist": 9
+            "Avail": 3,
+            "Enroll": 37,
+            "Quota": 40,
+            "Waitlist": 4
           },
           "T01D": {
             "Avail": 0,
-            "Enroll": 35,
-            "Quota": 35,
-            "Waitlist": 11
+            "Enroll": 40,
+            "Quota": 40,
+            "Waitlist": 5
           },
           "T02A": {
             "Avail": 0,
@@ -57881,8 +57881,8 @@
             "Waitlist": 21
           },
           "T03A": {
-            "Avail": 1,
-            "Enroll": 44,
+            "Avail": 5,
+            "Enroll": 40,
             "Quota": 45,
             "Waitlist": 0
           },
@@ -57890,7 +57890,7 @@
             "Avail": 0,
             "Enroll": 45,
             "Quota": 45,
-            "Waitlist": 7
+            "Waitlist": 6
           },
           "T03C": {
             "Avail": 1,
@@ -57899,38 +57899,38 @@
             "Waitlist": 2
           },
           "T04A": {
-            "Avail": 13,
-            "Enroll": 32,
-            "Quota": 45,
-            "Waitlist": 0
-          },
-          "T04B": {
-            "Avail": 7,
-            "Enroll": 38,
-            "Quota": 45,
-            "Waitlist": 0
-          },
-          "T04C": {
             "Avail": 14,
             "Enroll": 31,
             "Quota": 45,
             "Waitlist": 0
           },
-          "T05A": {
-            "Avail": 6,
-            "Enroll": 39,
+          "T04B": {
+            "Avail": 8,
+            "Enroll": 37,
             "Quota": 45,
-            "Waitlist": 2
+            "Waitlist": 0
+          },
+          "T04C": {
+            "Avail": 15,
+            "Enroll": 30,
+            "Quota": 45,
+            "Waitlist": 0
+          },
+          "T05A": {
+            "Avail": 5,
+            "Enroll": 40,
+            "Quota": 45,
+            "Waitlist": 1
           },
           "T05B": {
-            "Avail": 3,
-            "Enroll": 42,
+            "Avail": 4,
+            "Enroll": 41,
             "Quota": 45,
             "Waitlist": 0
           },
           "T05C": {
-            "Avail": 0,
-            "Enroll": 45,
+            "Avail": 1,
+            "Enroll": 44,
             "Quota": 45,
             "Waitlist": 1
           },
@@ -57941,14 +57941,14 @@
             "Waitlist": 0
           },
           "T06B": {
-            "Avail": 9,
-            "Enroll": 36,
+            "Avail": 10,
+            "Enroll": 35,
             "Quota": 45,
             "Waitlist": 0
           },
           "T06C": {
-            "Avail": 20,
-            "Enroll": 25,
+            "Avail": 21,
+            "Enroll": 24,
             "Quota": 45,
             "Waitlist": 0
           },
@@ -57962,7 +57962,7 @@
             "Avail": 1,
             "Enroll": 44,
             "Quota": 45,
-            "Waitlist": 1
+            "Waitlist": 2
           },
           "T07C": {
             "Avail": 4,
@@ -57971,8 +57971,8 @@
             "Waitlist": 0
           },
           "T08A": {
-            "Avail": 2,
-            "Enroll": 43,
+            "Avail": 4,
+            "Enroll": 41,
             "Quota": 45,
             "Waitlist": 0
           },
@@ -58019,8 +58019,8 @@
             "Waitlist": 0
           },
           "T10C": {
-            "Avail": 2,
-            "Enroll": 43,
+            "Avail": 3,
+            "Enroll": 42,
             "Quota": 45,
             "Waitlist": 0
           },
@@ -58053,7 +58053,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus.",
-        "Enroll": 1329,
+        "Enroll": 1333,
         "Exclusion": "MATH 1012 (prior to 2025-26), MATH 1014, MATH 1020, MATH 1023, MATH 1024",
         "Exclusion-of": [
           "MATH1003",
@@ -58074,7 +58074,7 @@
           "PHYS1114"
         ],
         "Pre-requisite": "",
-        "Quota": 1498,
+        "Quota": 1518,
         "Relations": {
           "Co-requisite": {
             "Expression": null,
@@ -58099,7 +58099,7 @@
         },
         "Term": "2610",
         "Title": "Calculus I",
-        "Waitlist": 93
+        "Waitlist": 75
       }
     },
     "MATH1014": {
@@ -58132,7 +58132,7 @@
               "LAM, Tsz Kin"
             ],
             "Quota": 143,
-            "Waitlist": 51
+            "Waitlist": 52
           }
         },
         "Others": {},
@@ -58184,7 +58184,7 @@
             "Avail": 0,
             "Enroll": 45,
             "Quota": 45,
-            "Waitlist": 13
+            "Waitlist": 14
           },
           "T3C": {
             "Avail": 0,
@@ -58269,7 +58269,7 @@
         },
         "Term": "2610",
         "Title": "Calculus II",
-        "Waitlist": 221
+        "Waitlist": 222
       }
     },
     "MATH1020": {
@@ -58485,13 +58485,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 9,
-            "Enroll": 151,
+            "Avail": 7,
+            "Enroll": 153,
             "Instructor": [
               "JIANG, Qingyuan"
             ],
             "Quota": 160,
-            "Waitlist": 12
+            "Waitlist": 11
           }
         },
         "Others": {},
@@ -58504,8 +58504,8 @@
             "Waitlist": 10
           },
           "T1B": {
-            "Avail": 8,
-            "Enroll": 32,
+            "Avail": 7,
+            "Enroll": 33,
             "Quota": 40,
             "Waitlist": 2
           },
@@ -58516,10 +58516,10 @@
             "Waitlist": 1
           },
           "T1D": {
-            "Avail": 1,
-            "Enroll": 39,
+            "Avail": 0,
+            "Enroll": 40,
             "Quota": 40,
-            "Waitlist": 4
+            "Waitlist": 3
           }
         }
       },
@@ -58530,7 +58530,7 @@
         "Consent": false,
         "Credits": 2,
         "Description": "This course covers a number of foundational concepts and rigorous reasoning in mathematics which are essential for intermediate- and upper levels mathematics courses especially in the field of pure mathematics. The main purpose of the course is to enhance students’ conceptual and logical understanding of mathematics, and strengthen students’ ability on writing mathematical proofs. Topics include mathematical induction, set notations and logic, complex numbers, inequalities, construction of real numbers, elementary number theory, etc.",
-        "Enroll": 151,
+        "Enroll": 153,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -58559,7 +58559,7 @@
         },
         "Term": "2610",
         "Title": "Foundation of Mathematics",
-        "Waitlist": 12
+        "Waitlist": 11
       }
     },
     "MATH2011": {
@@ -58586,8 +58586,8 @@
             "Waitlist": 46
           },
           "L3": {
-            "Avail": 9,
-            "Enroll": 191,
+            "Avail": 8,
+            "Enroll": 192,
             "Instructor": [
               "KU, Yin Bon"
             ],
@@ -58647,8 +58647,8 @@
             "Waitlist": 2
           },
           "T3A": {
-            "Avail": 2,
-            "Enroll": 48,
+            "Avail": 1,
+            "Enroll": 49,
             "Quota": 50,
             "Waitlist": 2
           },
@@ -58682,7 +58682,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Differentiation in several variables, with applications in approximation, maximum and minimum and geometry. Integration in several variables, vector analysis.",
-        "Enroll": 484,
+        "Enroll": 485,
         "Exclusion": "MATH 2023, MATH 2024",
         "Exclusion-of": [
           "CIVL2035",
@@ -59072,11 +59072,11 @@
               "HUNG, Kin Ting Ken"
             ],
             "Quota": 120,
-            "Waitlist": 24
+            "Waitlist": 23
           },
           "L3": {
-            "Avail": 19,
-            "Enroll": 101,
+            "Avail": 20,
+            "Enroll": 100,
             "Instructor": [
               "YE, Guibo"
             ],
@@ -59084,8 +59084,8 @@
             "Waitlist": 4
           },
           "L4": {
-            "Avail": 12,
-            "Enroll": 108,
+            "Avail": 11,
+            "Enroll": 109,
             "Instructor": [
               "YE, Guibo"
             ],
@@ -59124,7 +59124,7 @@
             "Avail": 0,
             "Enroll": 40,
             "Quota": 40,
-            "Waitlist": 8
+            "Waitlist": 7
           },
           "T2C": {
             "Avail": 0,
@@ -59145,14 +59145,14 @@
             "Waitlist": 2
           },
           "T3C": {
-            "Avail": 1,
-            "Enroll": 39,
+            "Avail": 2,
+            "Enroll": 38,
             "Quota": 40,
             "Waitlist": 1
           },
           "T4A": {
-            "Avail": 3,
-            "Enroll": 37,
+            "Avail": 2,
+            "Enroll": 38,
             "Quota": 40,
             "Waitlist": 0
           },
@@ -59239,7 +59239,7 @@
         },
         "Term": "2610",
         "Title": "Matrix Algebra and Applications",
-        "Waitlist": 33
+        "Waitlist": 32
       }
     },
     "MATH2121": {
@@ -59248,13 +59248,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 24,
-            "Enroll": 156,
+            "Avail": 23,
+            "Enroll": 157,
             "Instructor": [
               "MARBERG, Eric Paul"
             ],
             "Quota": 180,
-            "Waitlist": 19
+            "Waitlist": 18
           },
           "L2": {
             "Avail": 0,
@@ -59297,10 +59297,10 @@
             "Waitlist": 3
           },
           "T1D": {
-            "Avail": 24,
-            "Enroll": 21,
+            "Avail": 23,
+            "Enroll": 22,
             "Quota": 45,
-            "Waitlist": 5
+            "Waitlist": 4
           },
           "T2A": {
             "Avail": 0,
@@ -59347,7 +59347,7 @@
         "Consent": false,
         "Credits": 4,
         "Description": "Vector space, matrices and system of linear equations, linear mappings and matrix forms, inner product, orthogonality, eigenvalues and eigenvectors, symmetric matrix.",
-        "Enroll": 444,
+        "Enroll": 445,
         "Exclusion": "MATH 2111, MATH 2131, MATH 2350",
         "Exclusion-of": [
           "MATH2111",
@@ -59403,7 +59403,7 @@
         },
         "Term": "2610",
         "Title": "Linear Algebra",
-        "Waitlist": 71
+        "Waitlist": 70
       }
     },
     "MATH2131": {
@@ -59510,23 +59510,23 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 89,
+            "Avail": 2,
+            "Enroll": 90,
             "Instructor": [
               "CHENG, Kam Hang"
             ],
-            "Quota": 90,
-            "Waitlist": 4
+            "Quota": 92,
+            "Waitlist": 3
           }
         },
         "Others": {},
         "Research": {},
         "Tutorial": {
           "T1A": {
-            "Avail": 0,
-            "Enroll": 45,
-            "Quota": 45,
-            "Waitlist": 3
+            "Avail": 1,
+            "Enroll": 46,
+            "Quota": 47,
+            "Waitlist": 2
           },
           "T1B": {
             "Avail": 1,
@@ -59543,7 +59543,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course provides a concise introduction to linear algebra and differential equations, with exposure to the use of numerical computing software like MATLAB. Topics include systems of linear equations, matrix algebra and determinants, language of vector spaces and inner product spaces, eigenvalue and eigenvector, first order ODEs, linear second order ODEs and oscillations, and homogeneous system of first order ODEs with constant coefficients.",
-        "Enroll": 89,
+        "Enroll": 90,
         "Exclusion": "MATH 2111, MATH 2121, MATH 2131, MATH 2351, MATH 2352, PHYS 2124",
         "Exclusion-of": [
           "CIVL2035",
@@ -59569,7 +59569,7 @@
           "MECH4740"
         ],
         "Pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024",
-        "Quota": 90,
+        "Quota": 92,
         "Relations": {
           "Co-requisite": {
             "Expression": null,
@@ -59601,7 +59601,7 @@
         },
         "Term": "2610",
         "Title": "Applied Linear Algebra and Differential Equations",
-        "Waitlist": 4
+        "Waitlist": 3
       }
     },
     "MATH2351": {
@@ -59610,13 +59610,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 90,
+            "Avail": 1,
+            "Enroll": 89,
             "Instructor": [
               "XU, Luze"
             ],
             "Quota": 90,
-            "Waitlist": 24
+            "Waitlist": 23
           },
           "L2": {
             "Avail": 0,
@@ -59632,10 +59632,10 @@
         "Research": {},
         "Tutorial": {
           "T1A": {
-            "Avail": 0,
-            "Enroll": 45,
+            "Avail": 1,
+            "Enroll": 44,
             "Quota": 45,
-            "Waitlist": 11
+            "Waitlist": 10
           },
           "T1B": {
             "Avail": 0,
@@ -59664,7 +59664,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "First order equations and applications, second order equations, Laplace transform method, series solutions, system of linear equations, nonlinear equations and linear stability analysis, introduction to partial differentiation and partial differential equations, separation of variables, and Fourier series.",
-        "Enroll": 180,
+        "Enroll": 179,
         "Exclusion": "MATH 2350, MATH 2352, PHYS 2124",
         "Exclusion-of": [
           "MATH2350"
@@ -59710,7 +59710,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Differential Equations",
-        "Waitlist": 40
+        "Waitlist": 39
       }
     },
     "MATH2411": {
@@ -60071,22 +60071,22 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 100,
+            "Avail": 0,
+            "Enroll": 101,
             "Instructor": [
               "ZHANG, Hai"
             ],
             "Quota": 101,
-            "Waitlist": 35
+            "Waitlist": 33
           },
           "L2": {
-            "Avail": 1,
-            "Enroll": 99,
+            "Avail": 0,
+            "Enroll": 100,
             "Instructor": [
               "ZHANG, Hai"
             ],
             "Quota": 100,
-            "Waitlist": 2
+            "Waitlist": 0
           }
         },
         "Others": {},
@@ -60099,22 +60099,22 @@
             "Waitlist": 16
           },
           "T1B": {
-            "Avail": 1,
-            "Enroll": 50,
+            "Avail": 0,
+            "Enroll": 51,
             "Quota": 51,
-            "Waitlist": 19
+            "Waitlist": 17
           },
           "T2A": {
-            "Avail": 1,
-            "Enroll": 49,
+            "Avail": 0,
+            "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 1
+            "Waitlist": 0
           },
           "T2B": {
             "Avail": 0,
             "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 3
+            "Waitlist": 2
           }
         }
       },
@@ -60125,7 +60125,7 @@
         "Consent": false,
         "Credits": 4,
         "Description": "Functions of several variables, implicit and inverse function theorem, uniform convergence measure and integral on the real line.",
-        "Enroll": 199,
+        "Enroll": 201,
         "Exclusion": "MATH 3043",
         "Exclusion-of": [
           "MATH3043"
@@ -60205,7 +60205,7 @@
         },
         "Term": "2610",
         "Title": "Real Analysis",
-        "Waitlist": 37
+        "Waitlist": 33
       }
     },
     "MATH3043": {
@@ -60856,7 +60856,7 @@
               "XIANG, Yang"
             ],
             "Quota": 50,
-            "Waitlist": 7
+            "Waitlist": 9
           }
         },
         "Others": {},
@@ -60866,7 +60866,7 @@
             "Avail": 0,
             "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 7
+            "Waitlist": 9
           }
         }
       },
@@ -60956,7 +60956,7 @@
         },
         "Term": "2610",
         "Title": "Partial Differential Equations",
-        "Waitlist": 7
+        "Waitlist": 9
       }
     },
     "MATH4063": {
@@ -61095,13 +61095,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 16,
-            "Enroll": 64,
+            "Avail": 15,
+            "Enroll": 65,
             "Instructor": [
               "FONG, Tsz Ho"
             ],
             "Quota": 80,
-            "Waitlist": 10
+            "Waitlist": 8
           }
         },
         "Others": {},
@@ -61114,10 +61114,10 @@
             "Waitlist": 7
           },
           "T1B": {
-            "Avail": 16,
-            "Enroll": 9,
+            "Avail": 15,
+            "Enroll": 10,
             "Quota": 25,
-            "Waitlist": 3
+            "Waitlist": 1
           }
         }
       },
@@ -61128,7 +61128,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Curve theory; curvature and torsion, Frenet-Serret frame; surface theory: Weingarten map, first and second fundamental forms, curvatures, Gaussian map, ruled surface, minimal surface; instrinsic geometry: Theorema Egregium, Coddazi-Mainardi equations, parallel transport, geodesics, exponential map, Gauss-Bonnet theorem.",
-        "Enroll": 64,
+        "Enroll": 65,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -61182,7 +61182,7 @@
         },
         "Term": "2610",
         "Title": "Differential Geometry",
-        "Waitlist": 10
+        "Waitlist": 8
       }
     },
     "MATH4423": {
@@ -61197,7 +61197,7 @@
               "WU, Xiaoran"
             ],
             "Quota": 40,
-            "Waitlist": 7
+            "Waitlist": 6
           }
         },
         "Others": {},
@@ -61207,7 +61207,7 @@
             "Avail": 0,
             "Enroll": 40,
             "Quota": 40,
-            "Waitlist": 7
+            "Waitlist": 6
           }
         }
       },
@@ -61244,7 +61244,7 @@
         },
         "Term": "2610",
         "Title": "Nonparametric Statistics",
-        "Waitlist": 7
+        "Waitlist": 6
       }
     },
     "MATH4424": {
@@ -61431,13 +61431,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 99,
+            "Avail": 0,
+            "Enroll": 100,
             "Instructor": [
               "YANG, Can"
             ],
             "Quota": 100,
-            "Waitlist": 25
+            "Waitlist": 24
           }
         },
         "Others": {},
@@ -61450,10 +61450,10 @@
             "Waitlist": 14
           },
           "T1B": {
-            "Avail": 1,
-            "Enroll": 49,
+            "Avail": 0,
+            "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 11
+            "Waitlist": 10
           }
         }
       },
@@ -61464,7 +61464,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course provides students with an extensive exposure to the elements of statistical machine learning in supervised and unsupervised learning with real world datasets. Topics include regression, classification, resampling methods, model assessment, model selection, regularization, nonparametric models, boosting, ensemble methods, random forests, kernel methods, support vector machines, neural networks, and some standard techniques in unsupervised learning such as clustering and dimensionally reduction. Lab sessions on using R or Python in data analysis with machine learning methods will be conducted in class. Scientific reports and/or poster presentations are required for project evaluations.",
-        "Enroll": 99,
+        "Enroll": 100,
         "Exclusion": "",
         "Exclusion-of": [
           "EMIA4110"
@@ -61501,7 +61501,7 @@
         },
         "Term": "2610",
         "Title": "Statistical Machine Learning",
-        "Waitlist": 25
+        "Waitlist": 24
       }
     },
     "MATH4511": {
@@ -61660,23 +61660,23 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 44,
+            "Avail": 0,
+            "Enroll": 45,
             "Instructor": [
               "LEUNG, Chi Man"
             ],
             "Quota": 45,
-            "Waitlist": 21
+            "Waitlist": 20
           }
         },
         "Others": {},
         "Research": {},
         "Tutorial": {
           "T1A": {
-            "Avail": 1,
-            "Enroll": 44,
+            "Avail": 0,
+            "Enroll": 45,
             "Quota": 45,
-            "Waitlist": 21
+            "Waitlist": 20
           }
         }
       },
@@ -61687,7 +61687,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course covers statistical and computational methods that are essential in financial data analysis, financial modeling, portfolio management and derivatives pricing. These tools are commonly used in quantitative financial models. Topics include: parametric models and parameter estimation, model fitting, multivariate analysis, linear regression, principal component analysis, bootstrapping method, Monto Carlo simulation methods and lattice tree algorithms. The students learn how to execute the tasks using computer software such as RStudio and Matlab.",
-        "Enroll": 44,
+        "Enroll": 45,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -61741,7 +61741,7 @@
         },
         "Term": "2610",
         "Title": "Statistical and Computational Methods in Financial Mathematics",
-        "Waitlist": 21
+        "Waitlist": 20
       }
     },
     "MATH4992": {
@@ -62122,8 +62122,8 @@
             "Waitlist": 0
           },
           "L05": {
-            "Avail": 5,
-            "Enroll": 0,
+            "Avail": 4,
+            "Enroll": 1,
             "Instructor": [
               "WONG, Ka Yee"
             ],
@@ -62142,7 +62142,7 @@
         "Consent": true,
         "Credits": 3,
         "Description": "A capstone project conducted under the supervision of a faculty member. A written report is required. Students need to individually seek a faculty mentor's consent prior to enrollment in this course.",
-        "Enroll": 14,
+        "Enroll": 15,
         "Exclusion": "MATH 4991, MATH 4992, MATH 4993, MATH 4994",
         "Exclusion-of": [
           "MATH4992",
@@ -62184,8 +62184,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 4,
-            "Enroll": 24,
+            "Avail": 5,
+            "Enroll": 23,
             "Instructor": [
               "MENG, Guowu"
             ],
@@ -62204,7 +62204,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Advanced theory of groups, linear algebra, rings, modules, and fields, including Galois theory.",
-        "Enroll": 24,
+        "Enroll": 23,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [
@@ -62351,8 +62351,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 6,
-            "Enroll": 14,
+            "Avail": 7,
+            "Enroll": 13,
             "Instructor": [
               "LI, Weiping"
             ],
@@ -62371,7 +62371,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Projective spaces, algebraic curves, divisors, line bundles, algebraic varieties, coherent sheaves, schemes. Some commumative algebra and homological algebra such as notherian ring, regular ring, valuation ring, kahler differentials.",
-        "Enroll": 14,
+        "Enroll": 13,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -62402,8 +62402,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 69,
+            "Avail": 0,
+            "Enroll": 70,
             "Instructor": [
               "PENG, Zhichao"
             ],
@@ -62422,7 +62422,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Numerical solution of differential equations, finite difference method, finite element methods, spectral methods and boundary integral methods.  Basic theory of convergence, stability and error estimates.",
-        "Enroll": 69,
+        "Enroll": 70,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [
@@ -62557,13 +62557,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 5,
-            "Enroll": 65,
+            "Avail": 4,
+            "Enroll": 66,
             "Instructor": [
               "NITZSCHNER, Maximilian Alexander"
             ],
             "Quota": 70,
-            "Waitlist": 2
+            "Waitlist": 1
           }
         },
         "Others": {},
@@ -62577,7 +62577,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Probability spaces and random variables, distribution functions, expectations and moments, independence, convergence concepts, law of large numbers and random series.",
-        "Enroll": 65,
+        "Enroll": 66,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -62599,7 +62599,7 @@
         },
         "Term": "2610",
         "Title": "Advanced Probability Theory I",
-        "Waitlist": 2
+        "Waitlist": 1
       }
     },
     "MATH5431": {
@@ -62608,8 +62608,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 3,
-            "Enroll": 57,
+            "Avail": 4,
+            "Enroll": 56,
             "Instructor": [
               "GUO, Xinzhou"
             ],
@@ -62628,7 +62628,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Theory of statistical inference in estimation. Topics include: sufficiency, ancillary statistics, completeness, UMVU estimators, information inequality, efficiency, asymptotic maximum likelihood theory. Other topics may include Bayes estimation and conditional inference.",
-        "Enroll": 57,
+        "Enroll": 56,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -63350,8 +63350,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 2,
+            "Avail": 0,
+            "Enroll": 3,
             "Instructor": [
               "LEUNG, Shing Yu"
             ],
@@ -63370,7 +63370,7 @@
         "Consent": true,
         "Credits": 3,
         "Description": "The Essentially non-oscillatory (ENO) and weighted ENO (WENO) schemes were designed to solve hyperbolic and convection-diffusion equations that may have discontinuous solutions or sharp gradient regions. These schemes use an approximation procedure to achieve high-order accuracy in smooth regions and resolve shocks or other discontinuities sharply and without oscillations. In this course, students will review the methodology and study the applications of these schemes. Students should seek the course instructor’s approval to take this course.",
-        "Enroll": 2,
+        "Enroll": 3,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -63653,8 +63653,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 34,
-            "Enroll": 6,
+            "Avail": 33,
+            "Enroll": 7,
             "Quota": 40,
             "Waitlist": 0
           }
@@ -63875,8 +63875,8 @@
             "Waitlist": 9
           },
           "LA4": {
-            "Avail": 0,
-            "Enroll": 37,
+            "Avail": 1,
+            "Enroll": 36,
             "Quota": 37,
             "Waitlist": 2
           },
@@ -63887,10 +63887,10 @@
             "Waitlist": 2
           },
           "LA6": {
-            "Avail": 1,
-            "Enroll": 36,
+            "Avail": 0,
+            "Enroll": 37,
             "Quota": 37,
-            "Waitlist": 2
+            "Waitlist": 1
           },
           "LA7": {
             "Avail": 0,
@@ -64546,8 +64546,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 13,
-            "Enroll": 32,
+            "Avail": 14,
+            "Enroll": 31,
             "Instructor": [
               "TAO, Hong"
             ],
@@ -64559,8 +64559,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 13,
-            "Enroll": 32,
+            "Avail": 14,
+            "Enroll": 31,
             "Quota": 45,
             "Waitlist": 0
           }
@@ -64573,7 +64573,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "MECH 3420, as an extension of MECH 2410, is an advanced course on materials science and engineering offered in this department. This course is composed of three modules, i.e. (1) electrical, thermal, magnetic, and optical properties of general engineering materials; (2) green and smart building materials including ceramics, polymers, advanced insulation and glazing materials; (3) aerospace engineering materials including application of Aluminum alloys, Magnesium alloys, Titanium alloys, as well as superalloys in aerospace structures and engines.",
-        "Enroll": 32,
+        "Enroll": 31,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -65526,7 +65526,7 @@
               "MA, Lok Wang"
             ],
             "Quota": 30,
-            "Waitlist": 0
+            "Waitlist": 1
           }
         },
         "Others": {},
@@ -65566,7 +65566,7 @@
         },
         "Term": "2610",
         "Title": "Thermodynamics and Kinetics of Materials",
-        "Waitlist": 0
+        "Waitlist": 1
       }
     },
     "MECH5550": {
@@ -65793,8 +65793,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 18,
-            "Enroll": 132,
+            "Avail": 17,
+            "Enroll": 133,
             "Instructor": [
               "ZHOU, Yanguang"
             ],
@@ -65813,7 +65813,7 @@
         "Consent": false,
         "Credits": 0,
         "Description": "Technical seminars in various disciplines of mechanical engineering; presentations are given by students, faculty, or guest speakers. Graded P or F.",
-        "Enroll": 132,
+        "Enroll": 133,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -65844,8 +65844,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 19,
-            "Enroll": 11,
+            "Avail": 18,
+            "Enroll": 12,
             "Instructor": [
               "SUN, Qingping"
             ],
@@ -65864,7 +65864,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course aims to provide an introduction to the fundamentals and applications of solid-state elastocaloric refrigeration technology. It consists of (1) basic concept and theoretical principles; (2) design and fabrication of elastocaloric materials; (3) design and fabrication of elastocaloric refrigeration structures; (4) design and fabrication of elastocaloric devices; (5) system-level refrigeration performance characterization and analysis.",
-        "Enroll": 11,
+        "Enroll": 12,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -66172,13 +66172,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 71,
+            "Avail": 0,
+            "Enroll": 72,
             "Instructor": [
               "NG, Ka Man"
             ],
             "Quota": 72,
-            "Waitlist": 55
+            "Waitlist": 54
           },
           "L2": {
             "Avail": 0,
@@ -66187,7 +66187,7 @@
               "NG, Ka Man"
             ],
             "Quota": 72,
-            "Waitlist": 48
+            "Waitlist": 47
           },
           "L3": {
             "Avail": 0,
@@ -66196,7 +66196,7 @@
               "NG, Ka Man"
             ],
             "Quota": 72,
-            "Waitlist": 37
+            "Waitlist": 38
           }
         },
         "Others": {},
@@ -66210,7 +66210,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Decision making is a central human activity, but how good are we at it? Scientific evidence suggests that our decisions are often biased and flawed, resulting in disappointing or even disastrous outcomes. This course draws upon contemporary research in psychology and other social sciences to better understand how it is that people make decisions, and why those decisions are often made badly. The course will emphasize a theoretical understanding of human decision making, as well as a comprehension of the real world implications of our mistakes both for us and for our society, and what, if anything, can be done about it.",
-        "Enroll": 215,
+        "Enroll": 216,
         "Exclusion": "CORE 1373",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -66236,7 +66236,7 @@
         },
         "Term": "2610",
         "Title": "Traps and Pitfalls in Judgment and Decision Making",
-        "Waitlist": 140
+        "Waitlist": 139
       }
     },
     "MGMT2010": {
@@ -66397,8 +66397,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 28,
-            "Enroll": 12,
+            "Avail": 27,
+            "Enroll": 13,
             "Instructor": [
               "ZHENG, Yanfeng"
             ],
@@ -66417,7 +66417,7 @@
         "Consent": true,
         "Credits": 3,
         "Description": "This course introduces students to the fundamental knowledge, mindset, and skill sets required to create and manage new ventures. Through a combination of theory, practical exercises, case studies, and projects, students will learn to recognise, assess, and articulate new opportunities for entrepreneurial ventures, generate innovative business ideas based on technological concepts, and understand the resources and strategies necessary for implementation. Students will be exposed to the real-world challenges of creating a new technical venture and will acquire the essential knowledge and skills for setting up and managing a venture. The course also help participants develop a greater awareness of their personal goals, strengths and limitations in venture creation and growth. Instructor's approval is required for enrollment in the course.",
-        "Enroll": 12,
+        "Enroll": 13,
         "Exclusion": "MGMT 4220",
         "Exclusion-of": [
           "MGMT4220"
@@ -66505,7 +66505,7 @@
               "JEONG, Martha"
             ],
             "Quota": 60,
-            "Waitlist": 18
+            "Waitlist": 19
           },
           "L07": {
             "Avail": 3,
@@ -66582,7 +66582,7 @@
         },
         "Term": "2610",
         "Title": "Organizational Behavior",
-        "Waitlist": 113
+        "Waitlist": 114
       }
     },
     "MGMT2130": {
@@ -66821,7 +66821,7 @@
               "MA, Jingjing"
             ],
             "Quota": 64,
-            "Waitlist": 42
+            "Waitlist": 43
           }
         },
         "Others": {},
@@ -66831,7 +66831,7 @@
             "Avail": 0,
             "Enroll": 64,
             "Quota": 64,
-            "Waitlist": 42
+            "Waitlist": 43
           }
         }
       },
@@ -66868,7 +66868,7 @@
         },
         "Term": "2610",
         "Title": "Managerial Leadership",
-        "Waitlist": 42
+        "Waitlist": 43
       }
     },
     "MGMT3140": {
@@ -66883,7 +66883,7 @@
               "NASON, Stephen William"
             ],
             "Quota": 64,
-            "Waitlist": 46
+            "Waitlist": 45
           },
           "L2": {
             "Avail": 0,
@@ -66911,7 +66911,7 @@
             "Avail": 0,
             "Enroll": 64,
             "Quota": 64,
-            "Waitlist": 46
+            "Waitlist": 45
           },
           "T2": {
             "Avail": 0,
@@ -66956,7 +66956,7 @@
         },
         "Term": "2610",
         "Title": "Negotiation",
-        "Waitlist": 102
+        "Waitlist": 101
       }
     },
     "MGMT4210": {
@@ -66980,7 +66980,7 @@
               "LI, Ying"
             ],
             "Quota": 59,
-            "Waitlist": 23
+            "Waitlist": 22
           },
           "L3": {
             "Avail": 0,
@@ -67029,7 +67029,7 @@
         },
         "Term": "2610",
         "Title": "Corporate Strategy",
-        "Waitlist": 40
+        "Waitlist": 39
       }
     },
     "MGMT4220": {
@@ -67044,7 +67044,7 @@
               "ZHENG, Yanfeng"
             ],
             "Quota": 40,
-            "Waitlist": 7
+            "Waitlist": 8
           },
           "L2": {
             "Avail": 20,
@@ -67063,7 +67063,7 @@
             "Avail": 0,
             "Enroll": 40,
             "Quota": 40,
-            "Waitlist": 7
+            "Waitlist": 8
           },
           "T2": {
             "Avail": 20,
@@ -67108,7 +67108,7 @@
         },
         "Term": "2610",
         "Title": "Entrepreneurship and Innovation",
-        "Waitlist": 11
+        "Waitlist": 12
       }
     },
     "MGMT4230": {
@@ -69359,8 +69359,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 7,
-            "Enroll": 113,
+            "Avail": 6,
+            "Enroll": 114,
             "Instructor": [
               "YAU, Sin Ting Cynthia"
             ],
@@ -69379,7 +69379,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Basic principles and patterns of ecology; population growth; community interaction; ecosystem; ecosphere.",
-        "Enroll": 113,
+        "Enroll": 114,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -70208,7 +70208,7 @@
               "CHEUNG, Man Fung"
             ],
             "Quota": 150,
-            "Waitlist": 32
+            "Waitlist": 31
           },
           "L2": {
             "Avail": 28,
@@ -70257,7 +70257,7 @@
         },
         "Term": "2610",
         "Title": "Energy and Related Environmental Issues",
-        "Waitlist": 32
+        "Waitlist": 31
       }
     },
     "PHYS1101": {
@@ -70273,8 +70273,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 13,
-            "Enroll": 107,
+            "Avail": 12,
+            "Enroll": 108,
             "Instructor": [
               "NG, Yee Fai"
             ],
@@ -70295,8 +70295,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 29,
-            "Enroll": 31,
+            "Avail": 28,
+            "Enroll": 32,
             "Quota": 60,
             "Waitlist": 1
           },
@@ -70327,7 +70327,7 @@
         "Consent": false,
         "Credits": 4,
         "Description": "This course is for students with no physics background. It can serve as a standalone introduction to physics or as a preparatory course for students who intend to take PHYS 1112. It is not a preparatory course for PHYS 1111; students with no calculus background who plan to take General Physics should take calculus concurrently with PHYS 1101 so that they meet the prerequisites for PHYS 1112. Topics covered include heat and gases, force and motion, waves, and electricity and magnetism. Students without HKDSE qualifications may seek instructor’s approval for enrolment.",
-        "Enroll": 190,
+        "Enroll": 191,
         "Exclusion": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
         "Exclusion-of": [
           "PHYS1111"
@@ -70469,8 +70469,8 @@
             "Waitlist": 34
           },
           "L2": {
-            "Avail": 4,
-            "Enroll": 146,
+            "Avail": 5,
+            "Enroll": 145,
             "Instructor": [
               "CHEN, Tian Wen"
             ],
@@ -70493,25 +70493,25 @@
               "MANZONI, Giorgio"
             ],
             "Quota": 150,
-            "Waitlist": 15
+            "Waitlist": 16
           },
           "L5": {
-            "Avail": 6,
-            "Enroll": 144,
+            "Avail": 5,
+            "Enroll": 145,
             "Instructor": [
               "ZHANG, Rui"
             ],
             "Quota": 150,
-            "Waitlist": 23
+            "Waitlist": 22
           },
           "L6": {
-            "Avail": 17,
-            "Enroll": 133,
+            "Avail": 16,
+            "Enroll": 134,
             "Instructor": [
               "PANT, Nidhi"
             ],
             "Quota": 150,
-            "Waitlist": 5
+            "Waitlist": 4
           },
           "L7": {
             "Avail": 0,
@@ -70520,7 +70520,7 @@
               "CHEUNG, Man Fung"
             ],
             "Quota": 150,
-            "Waitlist": 21
+            "Waitlist": 22
           },
           "L8": {
             "Avail": 11,
@@ -70566,10 +70566,10 @@
             "Waitlist": 19
           },
           "T06": {
-            "Avail": 1,
-            "Enroll": 49,
+            "Avail": 0,
+            "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 1
+            "Waitlist": 0
           },
           "T07": {
             "Avail": 1,
@@ -70611,11 +70611,11 @@
             "Avail": 5,
             "Enroll": 45,
             "Quota": 50,
-            "Waitlist": 1
+            "Waitlist": 2
           },
           "T14": {
-            "Avail": 13,
-            "Enroll": 37,
+            "Avail": 14,
+            "Enroll": 36,
             "Quota": 50,
             "Waitlist": 2
           },
@@ -70626,10 +70626,10 @@
             "Waitlist": 1
           },
           "T16": {
-            "Avail": 1,
-            "Enroll": 49,
+            "Avail": 0,
+            "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 1
+            "Waitlist": 0
           },
           "T17": {
             "Avail": 0,
@@ -70659,7 +70659,7 @@
             "Avail": 0,
             "Enroll": 50,
             "Quota": 50,
-            "Waitlist": 0
+            "Waitlist": 1
           },
           "T22": {
             "Avail": 11,
@@ -70679,7 +70679,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "PHYS 1111 and PHYS 1112 target students who have learned the most basic knowledge in physics in high school. Students with more advanced physics background should consider taking PHYS 1312. PHYS 1112 employs a calculus-based approach. Students without knowledge of calculus should take PHYS 1111 instead. Key topics include motions and Newton’s Laws, work and energy, conservation of energy and momentum, rotation, rigid body, simple harmonic and damped oscillations, forced oscillations, standing waves and sound waves, kinetic theory and the laws of thermodynamics. Students without the physics prerequisite but who have taken PHYS 1101 or equivalent, and/or without the mathematics prerequisite but who have taken MATH 1012/ MATH 1013/ MATH 1020/ MATH 1023 or equivalent may seek instructor’s approval for enrolling in the course.",
-        "Enroll": 993,
+        "Enroll": 994,
         "Exclusion": "PHYS 1111, PHYS 1312",
         "Exclusion-of": [
           "PHYS1111",
@@ -70751,10 +70751,10 @@
             "Waitlist": 1
           },
           "LA5": {
-            "Avail": 7,
-            "Enroll": 13,
+            "Avail": 6,
+            "Enroll": 14,
             "Quota": 20,
-            "Waitlist": 2
+            "Waitlist": 1
           },
           "LA6": {
             "Avail": 11,
@@ -70768,10 +70768,10 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 32,
-            "Enroll": 88,
+            "Avail": 31,
+            "Enroll": 89,
             "Quota": 120,
-            "Waitlist": 3
+            "Waitlist": 2
           }
         }
       },
@@ -70948,8 +70948,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 55,
-            "Enroll": 45,
+            "Avail": 56,
+            "Enroll": 44,
             "Instructor": [
               "PO, Adrian"
             ],
@@ -70961,8 +70961,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 55,
-            "Enroll": 45,
+            "Avail": 56,
+            "Enroll": 44,
             "Quota": 100,
             "Waitlist": 0
           }
@@ -70978,7 +70978,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course is a more in-depth version of PHYS 1112. It is intended to provide a solid foundation to students who wish to take more advanced physics courses in the future. Key topics include motions and Newton’s Laws, work and energy, conservation of energy and momentum, rotation, rigid body, simple harmonic and damped oscillations, forced oscillations, standing waves and sound waves, kinetic theory and the laws of thermodynamics. Students without the prerequisite may seek instructor’s approval for enrolling in the course. For students under the 4-year degree only.",
-        "Enroll": 45,
+        "Enroll": 44,
         "Exclusion": "PHYS 1111, PHYS 1112",
         "Exclusion-of": [
           "PHYS1111",
@@ -73168,8 +73168,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 28,
-            "Enroll": 12,
+            "Avail": 27,
+            "Enroll": 13,
             "Instructor": [
               "WANG, Ning"
             ],
@@ -73181,8 +73181,8 @@
         "Research": {},
         "Tutorial": {
           "T1": {
-            "Avail": 28,
-            "Enroll": 12,
+            "Avail": 27,
+            "Enroll": 13,
             "Quota": 40,
             "Waitlist": 0
           }
@@ -73195,7 +73195,7 @@
         "Consent": true,
         "Credits": 3,
         "Description": "Fundamental crystallography; crystalline structure and defects; X-ray and electron diffractions; imaging contrast mechanisms; structure determination; analytical electron microscopy.  The instructor's approval is required for taking this course.",
-        "Enroll": 12,
+        "Enroll": 13,
         "Exclusion": "NANO 5250",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -74010,7 +74010,7 @@
               "MATUS, Kira"
             ],
             "Quota": 41,
-            "Waitlist": 14
+            "Waitlist": 13
           }
         },
         "Others": {},
@@ -74046,7 +74046,7 @@
         },
         "Term": "2610",
         "Title": "Technology, Innovation and Public Policy",
-        "Waitlist": 14
+        "Waitlist": 13
       }
     },
     "PPOL5250": {
@@ -74259,8 +74259,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 8,
-            "Enroll": 32,
+            "Avail": 7,
+            "Enroll": 33,
             "Instructor": [
               "TYRALA, Michael"
             ],
@@ -74279,7 +74279,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Emerging markets are now the main engine of global GDP growth; most have also made rapid progress in poverty reduction and other development outcomes over the last three decades. At the same time, the pandemic has raised doubts about the prospects of emerging markets. Both the pandemic-induced global recession and the possible reversal of globalization threaten the gains emerging markets have made in recent decades. Using growth diagnostics, this course examines the economic prospects of the key emerging markets in Asia – China, India, the ASEAN-5 (Indonesia, Malaysia, Philippines, Singapore, and Thailand), draws lessons for development policy, and examines the implications for emerging markets in a pandemic-disrupted world.",
-        "Enroll": 32,
+        "Enroll": 33,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -74311,7 +74311,7 @@
         "Lecture": {
           "L1": {
             "Avail": 0,
-            "Enroll": 4,
+            "Enroll": 3,
             "Instructor": [
               "TYRALA, Michael"
             ],
@@ -74330,7 +74330,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course introduces students to how structural power shapes and influences the global fight against poverty, inequality, and underdevelopment, three of the most fundamental and persistent societal challenges that humans have ever faced. First, it explains how poverty, inequality, and development are defined and measured, why some definitions and measurements are preferred over others, and how the three concepts are intertwined. After that, it examines how different classical and contemporary theories of political economy and development interpret the root causes of poverty, inequality, and underdevelopment, which of the theories became more dominant, and why. Finally, it explores the successes, failures, and potential of the various mainstream and alternative approaches that have been used or proposed to address poverty, inequality, and underdevelopment.",
-        "Enroll": 4,
+        "Enroll": 3,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -74517,8 +74517,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 14,
-            "Enroll": 26,
+            "Avail": 15,
+            "Enroll": 25,
             "Instructor": [
               "DE TROULLIOUD DE LANVERSIN, Julien"
             ],
@@ -74537,7 +74537,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course examines how arms control shapes and is shaped by international relations, focusing on how states assess national security interests, manage arms races, and pursue strategic stability. Students will explore the roles of domestic politics, international law, and global governance in regulating nuclear, missile, space, cyber, and AI-related capabilities. Through a mix of theory and case studies, as well as a structured debate and a Model United Nations simulation, the course links core security concepts to real-world policy design and negotiation practice.",
-        "Enroll": 26,
+        "Enroll": 25,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -75050,7 +75050,7 @@
               "WANG, Jiying"
             ],
             "Quota": 60,
-            "Waitlist": 36
+            "Waitlist": 35
           }
         },
         "Others": {},
@@ -75086,7 +75086,7 @@
         },
         "Term": "2610",
         "Title": "Risk Management in Financial Institutions",
-        "Waitlist": 36
+        "Waitlist": 35
       }
     },
     "RMBI2001": {
@@ -77103,13 +77103,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 1,
-            "Enroll": 140,
+            "Avail": 0,
+            "Enroll": 141,
             "Instructor": [
               "LIN, Yi-Min"
             ],
             "Quota": 141,
-            "Waitlist": 84
+            "Waitlist": 83
           }
         },
         "Others": {},
@@ -77146,10 +77146,10 @@
             "Waitlist": 20
           },
           "T6": {
-            "Avail": 1,
-            "Enroll": 23,
+            "Avail": 0,
+            "Enroll": 24,
             "Quota": 24,
-            "Waitlist": 13
+            "Waitlist": 12
           }
         }
       },
@@ -77160,7 +77160,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course introduces students to the major developments and changes in China since 1949 from a multidisciplinary social science perspective. It reviews the transformative and developmental strategies in the spheres of politics, economics, society and external relations during that historical epoch. It critically examines change and continuity over three periods, namely 1949-1977 or the Mao years, 1978-1989, the earlier reform and open-up years, and 1989-present, the post-Tiananmen years.",
-        "Enroll": 140,
+        "Enroll": 141,
         "Exclusion": "SOSC 1359",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -77186,7 +77186,7 @@
         },
         "Term": "2610",
         "Title": "Contemporary China: Continuity and Change",
-        "Waitlist": 84
+        "Waitlist": 83
       }
     },
     "SOSC1440": {
@@ -77337,8 +77337,8 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 5,
-            "Enroll": 115,
+            "Avail": 4,
+            "Enroll": 116,
             "Instructor": [
               "HE, Wenkai"
             ],
@@ -77357,7 +77357,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "The rapid economic modernization and building of a modern state in Japan after the Meiji Restoration of 1868 has long been considered a typical case of successful economic and political development. Japan’s success has been attributed to its whole-hearted efforts of “learning from the west”. In the meantime, Japan’s colonial expansion after 1895 and particularly after 1905 has also been characterized as “learning from the west”, in this case, imperialism. Japan did establish a constitutional monarchy in 1891. In 1925, it became the first country in East Asia to achieve universal male suffrage, a crucial measure of democracy in the late nineteenth and early twentieth centuries. How did Japan build a system of imperial democracy before 1930? Why did democracy not consolidate in Japan but instead be replaced by military fascism after 1937? This course will resolve this puzzle by examining Japan’s history of economic and political development.",
-        "Enroll": 115,
+        "Enroll": 116,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -77508,13 +77508,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 2,
-            "Enroll": 118,
+            "Avail": 0,
+            "Enroll": 120,
             "Instructor": [
               "CAI, Yongshun"
             ],
             "Quota": 120,
-            "Waitlist": 120
+            "Waitlist": 118
           }
         },
         "Others": {},
@@ -77528,7 +77528,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course introduces to students the basic knowledge about the operation of the Chinese legal system or legal institutions. It examines how laws are used in the social, economic, and political activities of the Chinese people. The course focuses not on the Chinese laws per se but on how laws are used in people’s daily lives. Examples or cases will be used extensively in the course to illustrate the topics included. Major topics discussed in the course include the interactions between legal institutions and the party‐state (i.e., the party and the government), the behavior of legal workers (e.g., judges, police officers), citizens’ use of civil lawsuits and administrative litigation, and some important mechanisms through which citizens or other social actors seek justice in China.",
-        "Enroll": 118,
+        "Enroll": 120,
         "Exclusion": "CORE 1840",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -77554,7 +77554,7 @@
         },
         "Term": "2610",
         "Title": "Government, Law and Society in China",
-        "Waitlist": 120
+        "Waitlist": 118
       }
     },
     "SOSC1859": {
@@ -78502,13 +78502,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 5,
-            "Enroll": 35,
+            "Avail": 4,
+            "Enroll": 36,
             "Instructor": [
               "HE, Wenkai"
             ],
             "Quota": 40,
-            "Waitlist": 14
+            "Waitlist": 13
           }
         },
         "Others": {},
@@ -78522,7 +78522,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "Based on single-country and cross-national research, this course includes some issues concerning democracy and democratization around the world. It will start with helping students understand the debates on the definitions of democracy and explore their implications. The course will then examine empirically the consequences of democracy and thereby debate on the alleged strengths and weaknesses of democracy. The course will also introduce the global expansion of democracies since the late twentieth century. It will analyze the causes of global democratization from various perspectives. Lastly, it will examine the factors shaping democratic stability from various approaches.",
-        "Enroll": 35,
+        "Enroll": 36,
         "Exclusion": "CORE 3863",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -78548,7 +78548,7 @@
         },
         "Term": "2610",
         "Title": "Democracy and Democratization around the World",
-        "Waitlist": 14
+        "Waitlist": 13
       }
     },
     "SOSC3720": {
@@ -79088,13 +79088,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 20,
+            "Avail": 1,
+            "Enroll": 19,
             "Instructor": [
               "HOLZ, Carsten Andreas"
             ],
             "Quota": 20,
-            "Waitlist": 3
+            "Waitlist": 2
           }
         },
         "Others": {},
@@ -79108,7 +79108,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "The course presents a broad, non-mathematical, postgraduate level introduction to the economy of the People’s Republic of China since 1949, with a focus on the reform period and in particular the most recent years. Analytical tools applied include economic history, economic geography, economic transition, economic development, economic policy-making, and international trade and finance.",
-        "Enroll": 20,
+        "Enroll": 19,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -79130,7 +79130,7 @@
         },
         "Term": "2610",
         "Title": "The Chinese Economy",
-        "Waitlist": 3
+        "Waitlist": 2
       }
     },
     "SOSC5720": {
@@ -79145,7 +79145,7 @@
               "WANG, Wen"
             ],
             "Quota": 20,
-            "Waitlist": 1
+            "Waitlist": 2
           }
         },
         "Others": {},
@@ -79181,7 +79181,7 @@
         },
         "Term": "2610",
         "Title": "Economic Development in China",
-        "Waitlist": 1
+        "Waitlist": 2
       }
     },
     "SOSC5780": {
@@ -79253,7 +79253,7 @@
               "WEI, Jinlin"
             ],
             "Quota": 20,
-            "Waitlist": 7
+            "Waitlist": 6
           }
         },
         "Others": {},
@@ -79263,7 +79263,7 @@
             "Avail": 6,
             "Enroll": 14,
             "Quota": 20,
-            "Waitlist": 7
+            "Waitlist": 6
           }
         }
       },
@@ -79296,7 +79296,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Social Network Analysis",
-        "Waitlist": 7
+        "Waitlist": 6
       }
     },
     "SOSC6030T": {
@@ -79500,13 +79500,13 @@
         "Labs": {},
         "Lecture": {
           "L1": {
-            "Avail": 0,
-            "Enroll": 20,
+            "Avail": 1,
+            "Enroll": 19,
             "Instructor": [
               "HSIAO, Janet Hui-wen"
             ],
             "Quota": 20,
-            "Waitlist": 8
+            "Waitlist": 7
           }
         },
         "Others": {},
@@ -79520,7 +79520,7 @@
         "Consent": false,
         "Credits": 3,
         "Description": "This course aims to introduce current issues in Cognitive Science to postgraduate students. Cognitive Science is the interdisciplinary, scientific study of the mind and mental phenomena, encompassing Artificial Intelligence, Psychology, Linguistics, Neuroscience, Philosophy, Anthropology, and Education. At each week’s class, we will read and discuss research papers from major Cognitive Science journals including Trends in Cognitive Sciences and Topics in Cognitive Science, or other related interdisciplinary journals. This course is open to all postgraduate students who are interested in learning more about interdisciplinary studies on the mind and behavior, including both human and artificial intelligence.",
-        "Enroll": 20,
+        "Enroll": 19,
         "Exclusion": "",
         "Exclusion-of": [],
         "Pre-Requisite-of": [],
@@ -79542,7 +79542,7 @@
         },
         "Term": "2610",
         "Title": "Seminars in Cognitive Science",
-        "Waitlist": 8
+        "Waitlist": 7
       }
     },
     "SOSC6990": {
@@ -79729,7 +79729,7 @@
               "CHEN, Shi"
             ],
             "Quota": 60,
-            "Waitlist": 18
+            "Waitlist": 17
           }
         },
         "Others": {},
@@ -79771,7 +79771,7 @@
         },
         "Term": "2610",
         "Title": "Introduction to Sustainability",
-        "Waitlist": 18
+        "Waitlist": 17
       }
     },
     "SUST1020": {
@@ -80169,8 +80169,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 60,
-            "Enroll": 160,
+            "Avail": 59,
+            "Enroll": 161,
             "Quota": 220,
             "Waitlist": 0
           }
@@ -80217,8 +80217,8 @@
         "Others": {},
         "Research": {
           "R1": {
-            "Avail": 34,
-            "Enroll": 66,
+            "Avail": 33,
+            "Enroll": 67,
             "Quota": 100,
             "Waitlist": 0
           }
